@@ -1,0 +1,3111 @@
+Hive (E:\Users\Julio\NTUSER.DAT) is not dirty.
+
+adobe v.20200522
+(NTUSER.DAT) Gets user's Adobe app cRecentFiles values
+
+Could not access Software\Adobe\Adobe Acrobat\\AVGeneral\cRecentFiles
+
+Could not access Software\Adobe\Acrobat Reader\\AVGeneral\cRecentFiles
+
+----------------------------------------
+allowedenum v.20200511
+(NTUSER.DAT, Software) Extracts AllowedEnumeration values to determine hidden special folders
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\AllowedEnumeration not found.
+Microsoft\Windows\CurrentVersion\Explorer\AllowedEnumeration not found.
+----------------------------------------
+appassoc v.20200515
+- Gets contents of user's ApplicationAssociationToasts key
+
+LastWrite: 2019-12-10 08:00:21Z
+
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.3g2
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.3g2
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.3g2
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.3gp
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.3gp
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.3gp
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.3gp2
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.3gpp
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.3gpp
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.3gpp
+AppX0g7r1702pcvqctbjptpbt2c457b18ha5_.3mf
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.3mf
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.aac
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.aac
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.adt
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.adt
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.adts
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.adts
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.amr
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.arw
+WMP11.AssocFile.ASF_.asf
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.asf
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.avi
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.avi
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.avi
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.bmp
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.cr2
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.crw
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.dib
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.divx
+docxfile_.docx
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.erf
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.flac
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.flac
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.gif
+icofile_.ico
+PBrush_.ico
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.ico
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.jfif
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.jpe
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.jpeg
+AppXfeqk92xmhxtyxytgbhn7tdqk70syjc6v_.jpg
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.kdc
+WMP11.AssocFile.M2TS_.m2t
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.m2t
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.m2t
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.m2t
+WMP11.AssocFile.M2TS_.m2ts
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.m2ts
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.m2ts
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.m2ts
+WMP11.AssocFile.m3u_.m3u
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.m3u
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.m3u
+AppX5sy1gww9q4g2gt941cdxxd7s07xe5vph_.m4a
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.m4a
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.m4a
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.m4r
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.m4v
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.m4v
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.m4v
+WMP11.AssocFile.MKV_.mkv
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mkv
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.mkv
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mkv
+WMP11.AssocFile.MPEG_.mod
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mod
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mod
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mov
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.mov
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mov
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mp2
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.mp3
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.mp3
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mp4
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.mp4
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mp4
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mp4v
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.mp4v
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mp4v
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.mpa
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.mpa
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mpe
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mpeg
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mpg
+WMP11.AssocFile.MPEG_.mpv2
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mpv2
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mpv2
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.mrw
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mts
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.mts
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.mts
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.nef
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.nrw
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.obj
+AppXd7df65yysmdaz9xc1vjxts4ng22x2n5f_.obj
+odtfile_.odt
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.orf
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.pef
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.png
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.raf
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.raw
+rtffile_.rtf
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.rw2
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.rwl
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.sr2
+AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h_.srw
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.stl
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.tif
+AppX86746z2101ayy2ygv3g96e4eqdf8r99j_.tif
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.tif
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.tiff
+AppX86746z2101ayy2ygv3g96e4eqdf8r99j_.tiff
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.tiff
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.tod
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.ts
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.ts
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.tts
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.tts
+vcard_wab_auto_file_.vcf
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.wav
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.wav
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.wm
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.wm
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.wm
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.wma
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.wma
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.wmv
+AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt_.wmv
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.wmv
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.wpl
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.wpl
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.xvid
+AppXmk63adfvvewttqzmezsgagxtcyyr84tx_.xvid
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.zpl
+AppX9v2an58zgtq78h18jgmp43b5gza6b2jp_.zpl
+AppXtggqqtcfspt6ks3fjzyfppwc05yxwtwy_mswindowsmusic
+AppX6w6n4f8xch1s3vzwf3af6bfe88qhxbza_mswindowsvideo
+CABFolder_.cab
+chm.file_.chm
+Applications\Notepad.exe_.css
+Applications\WordPad.exe_.css
+Applications\Notepad.exe_.csv
+Applications\WordPad.exe_.csv
+inffile_.inf
+inifile_.ini
+Applications\WordPad.exe_.ini
+Windows.IsoFile_.iso
+JSFile_.js
+txtfile_.log
+MSInfoFile_.nfo
+regfile_.reg
+ttffile_.ttf
+txtfile_.txt
+textfile_.txt
+xmlfile_.xml
+Applications\Notepad.exe_.xml
+Applications\WordPad.exe_.xml
+CompressedFolder_.zip
+WMP11.AssocFile.3G2_.3g2
+WMP11.AssocFile.3GP_.3gp
+WMP11.AssocFile.3G2_.3gp2
+WMP11.AssocFile.3GP_.3gpp
+WMP11.AssocFile.ADTS_.aac
+WMP11.AssocFile.ADTS_.adt
+WMP11.AssocFile.ADTS_.adts
+WMP11.AssocFile.AVI_.avi
+Paint.Picture_.bmp
+Paint.Picture_.dib
+WMP11.AssocFile.FLAC_.flac
+giffile_.gif
+PBrush_.gif
+htmlfile_.htm
+Applications\notepad.exe_.htm
+htmlfile_.html
+PBrush_.jfif
+PBrush_.jpe
+PBrush_.jpeg
+PBrush_.jpg
+wdpfile_.jxr
+WMP11.AssocFile.M4A_.m4a
+WMP11.AssocFile.MP4_.m4v
+WMP11.AssocFile.MOV_.mov
+WMP11.AssocFile.MP3_.MP2
+WMP11.AssocFile.MP3_.mp3
+WMP11.AssocFile.MP4_.mp4
+WMP11.AssocFile.MP4_.mp4v
+WMP11.AssocFile.MPEG_.mpa
+WMP11.AssocFile.MPEG_.MPE
+WMP11.AssocFile.MPEG_.mpeg
+WMP11.AssocFile.MPEG_.mpg
+WMP11.AssocFile.M2TS_.mts
+Windows.XPSReachViewer_.oxps
+PBrush_.png
+TIFImage.Document_.tif
+PBrush_.tif
+TIFImage.Document_.tiff
+PBrush_.tiff
+WMP11.AssocFile.TTS_.TS
+WMP11.AssocFile.TTS_.TTS
+InternetShortcut_.url
+WMP11.AssocFile.WAV_.wav
+wdpfile_.wdp
+Microsoft.Website_.website
+WMP11.AssocFile.ASF_.wm
+WMP11.AssocFile.WMA_.wma
+WMP11.AssocFile.WMV_.wmv
+WMP11.AssocFile.WPL_.WPL
+Windows.XPSReachViewer_.xps
+IE.HTTP_http
+IE.HTTPS_https
+ms-settings_ms-settings
+MSCFile_.msc
+FirefoxURL-E7CF176E110C211B_http
+FirefoxURL-E7CF176E110C211B_https
+FirefoxHTML-E7CF176E110C211B_.htm
+FirefoxHTML-E7CF176E110C211B_.html
+IE.AssocFile.HTM_.htm
+IE.AssocFile.HTM_.html
+AppXq0fevzme2pys62n3e0fbqa7peapykr8v_http
+AppX90nv6nhay5n6a98fnetv7tpk64pp35es_https
+AppX4hxtad77fbk3jkkeerkrm0ze94wjf3s9_.htm
+AppX4hxtad77fbk3jkkeerkrm0ze94wjf3s9_.html
+Msi.Package_.msi
+AcroExch.XFDFDoc_.xfdf
+AcroExch.acrobatsecuritysettings_.acrobatsecuritysettings
+Applications\AcroRd32.exe_.acrobatsecuritysettings
+AcroExch.pdfxml_.pdfxml
+Applications\AcroRd32.exe_.pdfxml
+AcroExch.Document.DC_.pdf
+AcroExch.FDFDoc_.fdf
+AcroExch.XDPDoc_.xdp
+PDXFileType_.pdx
+acrobat_acrobat
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.jpg
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.jpg
+AppXzmztw13p3n4paxkv8ykv0mz3fjs0heqh_.jpg
+ChromeHTML_http
+ChromeHTML_https
+Applications\AcroRd32.exe_.pdf
+AppXd4nrz8ff68srnhf9t5a8sbjyar1cr723_.pdf
+FirefoxHTML-E7CF176E110C211B_.pdf
+ChromeHTML_.pdf
+Applications\winword.exe_.pdf
+Applications\NOTEPAD.EXE_.txt
+SafeZoneStable_.pdf
+Applications\mspaint.exe_.ico
+steam_steam
+7z_auto_file_.7z
+Applications\7z.exe_.7z
+nxm_nxm
+SafeZoneStable_http
+SafeZoneStable_https
+AppXrrebmngeb0a7ggdd6sec1cq49468v8qr_windowsdefender
+AppXypsaf9f1qserqevf0sws76dx4k9a5206_feedback-hub
+PowerPoint.Show.8_.ppt
+Word.Document.12_.docx
+Applications\WINWORD.EXE_.docx
+jarfile_.jar
+PowerPoint.Show.12_.pptx
+Applications\NOTEPAD.EXE_.ini
+Applications\NOTEPAD.EXE_.log
+AppX4r6v2fg5b2qwg1jprp713smfp4wb02yp_.3mf
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.3mf
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.3mf
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.ac3
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.ec3
+AppX4r6v2fg5b2qwg1jprp713smfp4wb02yp_.fbx
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.fbx
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.fbx
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.fbx
+AppX4r6v2fg5b2qwg1jprp713smfp4wb02yp_.glb
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.glb
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.glb
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.glb
+AppX4r6v2fg5b2qwg1jprp713smfp4wb02yp_.gltf
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.gltf
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.gltf
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.gltf
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.mka
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mpe
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mpeg
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.mpg
+AppX4r6v2fg5b2qwg1jprp713smfp4wb02yp_.obj
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.obj
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.obj
+AppX4r6v2fg5b2qwg1jprp713smfp4wb02yp_.ply
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.ply
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.ply
+AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg_.ply
+AppX4r6v2fg5b2qwg1jprp713smfp4wb02yp_.stl
+AppXcdh38jxzbcberv50vxg2tg4k84kfnewn_.stl
+AppXr0rz9yckydawgnrx5df1t9s57ne60yhn_.stl
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.tod
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.3mf
+AppXvq91w9748jgva0jrf8ym4cxfzda7z2gq_.css
+Excel.CSV_.csv
+Word.Document.8_.doc
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.ico
+jpsfile_.jps
+mplayerc64.m3u_.m3u
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.obj
+odcfile_.odc
+OneNote.Section.1_.one
+AppXaf0097ws4bwb0wre67gmp7pc9fjr8en6_.one
+OneNote.TableOfContents.12_.onetoc2
+mplayerc64.pls_.pls
+Outlook.File.pst.15_.pst
+Word.RTF.8_.rtf
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.stl
+Excel.Sheet.12_.xlsx
+Excel.Sheet.8_.xls
+AppX59pt53ypfjyrmdz9ypfy2dxy0yjt6x4j_.xml
+AppXcc58vyzkbjbs4ky0mxrmxf8278rk9b3t_.xml
+Applications\winword.exe_.xml
+mplayerc64.3g2_.3g2
+mplayerc64.3gp_.3gp
+mplayerc64.3gp2_.3gp2
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.3gp2
+mplayerc64.3gpp_.3gpp
+mplayerc64.ac3_.ac3
+Applications\wmplayer.exe_.ac3
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.fbx
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.glb
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.gltf
+mplayerc64.m2t_.m2t
+mplayerc64.m2ts_.m2ts
+mplayerc64.m4v_.m4v
+WMP11.AssocFile.MKA_.mka
+mplayerc64.mka_.mka
+mplayerc64.mp4v_.mp4v
+mplayerc64.mpe_.MPE
+mplayerc64.mpeg_.mpeg
+mplayerc64.mpg_.mpg
+mplayerc64.mpv2_.mpv2
+mplayerc64.mts_.mts
+AppXmgw6pxxs62rbgfp9petmdyb4fx7rnd4k_.ply
+mplayerc64.ts_.TS
+AppX7rm9drdg8sk7vqndwj3sdjw11x96jc0y_microsoft-edge
+mplayerc64.wmv_.wmv
+Applications\mpc-hc64.exe_.wmv
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.png
+AppXzmztw13p3n4paxkv8ykv0mz3fjs0heqh_.png
+SafeZoneStable_.html
+ChromeHTML_.html
+AppXvq91w9748jgva0jrf8ym4cxfzda7z2gq_.html
+Applications\mspaint.exe_.jpg
+Applications\WINWORD.EXE_.doc
+AppXydk58wgm44se4b399557yyyj1w7mbmvd_mailto
+Access.Application.14_.accdb
+SafeZoneStable_mailto
+ChromeHTML_mailto
+Outlook.URL.mailto.15_mailto
+VBSFile_.vbs
+AvastHTML_http
+AvastHTML_https
+AvastHTML_.pdf
+Applications\WINWORD.EXE_.rtf
+Access.MDBFile_.mdb
+AppXaf0097ws4bwb0wre67gmp7pc9fjr8en6_.onetoc2
+AppX82a6gwre4fdg3bt635tn5ctqjf8msdd2_ms-windows-store
+Applications\WINWORD.EXE_.dotx
+Word.Template.12_.dotx
+AppX5nebv0xjaxafmmr3cnptgjg9pdpqcg0h_ms-gamingoverlay
+AppXm8fs0gj5h36ynw4kq0x3gqnz6ecr1kvy_ms-gamebarservices
+Applications\NOTEPAD.EXE_.java
+Applications\POWERPNT.EXE_.pptx
+java_auto_file_.java
+Applications\WordPad.exe_.java
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.jpeg
+Applications\POWERPNT.EXE_.jpg
+progId_VirtualBox.Shell.vbox-extpack_.vbox-extpack
+com.epicgames.launcher_com.epicgames.launcher
+ms-availablenetworks_ms-availablenetworks
+Applications\EXCEL.EXE_.jpg
+mplayerc64.mp4_.mp4
+Opera GXStable_https
+Opera GXStable_http
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.oga
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.ogg
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.ogm
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.ogv
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.ogx
+AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs_.opus
+AppX6eg8h5sxqq90pv53845wmnbewywdqq5h_.webm
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.bmp
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.dib
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.gif
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.ico
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.jfif
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.jpe
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.jpeg
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.jpg
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.png
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.tiff
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.tif
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.arw
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.cr2
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.crw
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.erf
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.kdc
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.mrw
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.nef
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.nrw
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.orf
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.pef
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.raw
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.rw2
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.rwl
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.sr2
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.srw
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.jxr
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.wdp
+Windows.Sandbox_.wsb
+AppX2jm25qtmp2qxstv333wv5mne3k5bf4bm_.dng
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.bmp
+AppXzmztw13p3n4paxkv8ykv0mz3fjs0heqh_.cr2
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.dib
+AppXvvwq6wxamf7qhxd0vn6wm1wwehyxrdd6_.dng
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.gif
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.jfif
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.jpe
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.jxr
+AppX43hnxtbyyps62jhe9sqpdzxn1790zetc_.wdp
+FirefoxHTML-E7CF176E110C211B_.oga
+mplayerc64.oga_.oga
+Applications\wmplayer.exe_.oga
+FirefoxHTML-E7CF176E110C211B_.ogg
+mplayerc64.ogg_.ogg
+Applications\wmplayer.exe_.ogg
+mplayerc64.ogm_.ogm
+Applications\wmplayer.exe_.ogm
+mplayerc64.ogv_.ogv
+FirefoxHTML-E7CF176E110C211B_.ogv
+Applications\wmplayer.exe_.ogv
+mplayerc64.opus_.opus
+Applications\wmplayer.exe_.opus
+mplayerc64.webm_.webm
+FirefoxHTML-E7CF176E110C211B_.webm
+Applications\wmplayer.exe_.webm
+AvastHTML_.htm
+AvastHTML_.html
+Opera GXStable_.htm
+Opera GXStable_.html
+ChromeHTML_.htm
+AppX3xxs313wwkfjhythsb8q46xdsq8d2cvv_microsoft-edge-holographic
+AppXdn5b0j699ka5fqvrr3pgjad0evqarm6d_ms-xbl-3d8b930f
+PowerPoint.OpenDocumentPresentation.12_.odp
+Applications\POWERPNT.EXE_.odp
+VSCode.html_.html
+VSCode.txt_.txt
+----------------------------------------
+appcompatflags v.20200525
+(NTUSER.DAT, Software) Extracts AppCompatFlags for Windows.
+
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers
+LastWrite Time 2019-09-06 16:17:35Z
+
+C:\Program Files (x86)\Steam\steamapps\common\Dark Souls Prepare to Die Edition\DATA\DARKSOULS.exe -> HIGHDPIAWARE
+
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Persisted
+  C:\Program Files (x86)\InstallShield Installation Information\{8833FFB6-5B0C-4764-81AA-06DFEED9A476}\setup.exe
+  C:\Program Files (x86)\Realtek\NICDRV_8169\RTINSTALLER64.EXE
+  C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\upc.exe
+  d:\Users\Julio\Desktop\miwifi_setup_2.3.759.exe
+  C:\Users\Julio\AppData\Local\Programs\Opera GX\Launcher.exe
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
+  2017-03-18 20:58:39Z - SIGN.MEDIA=A2FE3C6 DVDSetup.exe
+  2017-03-18 20:58:39Z - SIGN.MEDIA=A2FE3C6 MSIRegister.exe
+  2017-03-18 20:58:39Z - SIGN.MEDIA=B8B8AE Chipset\Intel\SetupChipset.exe
+  2017-03-18 20:58:39Z - SIGN.MEDIA=68E28C Network\Realtek\PCIE\WIN10\setup.exe
+  2017-03-18 20:58:39Z - SIGN.MEDIA=6E51DC Sound\Realtek\HD\Setup.exe
+  2017-03-18 20:58:39Z - SIGN.MEDIA=96356A6 OtherDriver\Intel ME Driver\SetupME.exe
+  2017-03-18 20:58:39Z - SIGN.MEDIA=8CF577 OtherDriver\Intel SGX\Intel(R)_SGX_Windows_x64_PSW_1.6.101.32869.msi
+  2017-03-18 20:58:39Z - SIGN.MEDIA=5ABF0 Utility\MSI\MSIWallpaper\200\T3 Arsenal GAMING\MSIWallpaper.exe
+  2017-03-18 20:58:39Z - SIGN.MEDIA=27EDB2 Utility\MSI\Super Charger\Super Charger.exe
+  2017-03-18 20:57:20Z - SIGN.MEDIA=13C9F4 setup.exe
+  2017-03-18 20:58:39Z - C:\MSI\MSIRegister\MSIRegister.exe
+  2017-03-18 20:58:39Z - SIGN.MEDIA=3E8EB41 PNY_CD.exe
+  2017-03-18 20:58:39Z - SIGN.MEDIA=4D98F1BD setup.exe
+  2017-03-18 20:58:39Z - SIGN.MEDIA=A90188C9 setup.exe
+  2017-03-18 20:58:39Z - SIGN.MEDIA=4FAECEE7 setup.exe
+  2017-03-18 20:58:39Z - SIGN.MEDIA=D4A5F41A setup.exe
+  2017-03-18 20:58:39Z - SIGN.MEDIA=198699DA setup.exe
+  2017-03-18 20:58:39Z - D:\Users\Julio\Downloads\26823-662010-directx.exe
+  2017-03-18 20:58:39Z - D:\Users\Julio\Downloads\384.76-desktop-win10-64bit-international-whql.exe
+  2017-03-18 20:58:39Z - SIGN.MEDIA=FFC4A136 setup.exe
+  2017-03-18 20:57:20Z - C:\Program Files\NVIDIA Corporation\Display\nvtray.exe
+  2017-03-18 20:58:39Z - C:\Program Files (x86)\FINAL FANTASY IV\FF4_Launcher.exe
+  2017-03-18 20:58:39Z - C:\Program Files (x86)\Final Fantasy III\FF3_Launcher.exe
+  2017-03-18 20:58:39Z - SIGN.MEDIA=C05836D9 setup.exe
+  2017-03-18 20:58:39Z - D:\Users\Julio\Downloads\K-Lite_Codec_Pack_1333_Mega.exe
+  2017-03-18 20:58:39Z - SIGN.MEDIA=4113060D setup.exe
+  2017-03-18 20:58:39Z - SIGN.MEDIA=92D15D3D stp-unravel.exe
+  2017-03-18 20:58:39Z - SIGN.MEDIA=26D28 OriginInstaller.exe
+  2017-03-18 20:58:39Z - D:\Users\Julio\Downloads\7z1604-x64.exe
+  2017-03-18 20:58:39Z - C:\Program Files (x86)\The Binding of Isaac Rebirth\isaac-ng.exe
+  2017-03-18 20:58:39Z - D:\Users\Julio\Downloads\TeamViewer_Setup.exe
+  2017-03-18 20:58:39Z - C:\Program Files (x86)\TeamViewer\TeamViewer.exe
+  2017-03-18 20:58:39Z - C:\Program Files (x86)\Common Files\EAInstaller\Battlefield 4\Cleanup.exe
+  2017-03-18 20:58:39Z - D:\Users\Julio\Downloads\Nexus Mod Manager-0.63.14.exe
+  2018-04-11 23:34:19Z - C:\Program Files\Nexus Mod Manager\NexusClient.exe
+  2017-03-18 20:58:39Z - d:\Users\Julio\Downloads\7z1604-x64.msi
+  2018-04-11 23:34:19Z - C:\Program Files\7-Zip\7z.exe
+  2017-03-18 20:58:39Z - D:\Users\Julio\Downloads\LOOT.Installer.exe
+  2019-03-19 04:44:28Z - C:\Program Files\Microsoft Office\Office16\POWERPNT.EXE
+  2017-03-18 20:58:39Z - C:\AeriaGames\Downloader\s4l_setup_20170628.exe
+  2017-03-18 20:58:39Z - C:\Program Files\Nexus Mod Manager\uninstall\unins000.exe
+  2017-03-18 20:58:39Z - D:\Users\Julio\Downloads\Game Launcher Installer.exe
+  2017-03-18 20:58:39Z - C:\Program Files (x86)\Java\jre1.8.0_131\bin\javaw.exe
+  1970-01-01 00:00:00Z - C:\Program Files (x86)\Steam\steamapps\common\Terraria\Terraria_v1.3.5.3.exe
+  2018-04-11 23:34:19Z - C:\Program Files (x86)\Steam\steamapps\common\Terraria\TerrariaOriginalBackup.exe
+  2017-03-18 20:58:39Z - D:\Users\Julio\Downloads\Skyrim_Animated_Wallpaper.exe
+  2017-03-18 20:58:39Z - C:\Program Files (x86)\Steam\steamapps\common\Dark Souls Prepare to Die Edition\DATA\dsfix\tex_override\DSCM.exe
+  2017-09-29 13:41:38Z - C:\Games\Nexus Mod Manager\DarkSouls\Mods\VirtualInstall\1000001612\DSCM.exe
+  2017-09-29 13:41:38Z - D:\Users\Julio\Downloads\Nueva carpeta\ModOrganizer\ModOrganizer.exe
+  2017-03-18 20:58:39Z - D:\Users\Julio\Downloads\Nueva carpeta\FNIS Behavior 6.3\Data\tools\GenerateFNIS_for_Users\GenerateFNISforUsers.exe
+  2017-03-18 20:58:39Z - D:\Users\Julio\Downloads\TES5Edit\TES5Edit.exe
+  2017-03-18 20:58:39Z - D:\Users\Julio\Downloads\Nueva carpeta (3)\ENBInjector.exe
+  2017-03-18 20:58:39Z - D:\Users\Julio\Downloads\Wrye Bash 307 beta1 - Installer-1840-307.exe
+  2017-09-29 13:41:38Z - D:\Users\Julio\Downloads\UplayInstaller.exe
+  2017-09-29 13:41:38Z - C:\Program Files (x86)\K-Lite Codec Pack\MPC-HC64\mpc-hc64.exe
+  2017-09-29 13:41:38Z - D:\Users\Julio\Downloads\ovisetup.exe
+  2017-09-29 13:41:38Z - C:\Users\Julio\AppData\Local\New Technology Studio\Apps\OpenIV\OpenIV.exe
+  2017-09-29 13:41:38Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\17.3.7131.1115\FileSyncConfig.exe
+  2017-09-29 13:41:38Z - D:\Users\Julio\Downloads\npp.7.5.3.Installer.exe
+  2017-09-29 13:41:38Z - C:\Program Files (x86)\Notepad++\notepad++.exe
+  2017-09-29 13:41:38Z - D:\Users\Julio\Downloads\Nueva carpeta (6)\AddonPeds Editor.exe
+  2017-09-29 13:41:38Z - D:\Users\Julio\Downloads\ccsetup538.exe
+  2017-09-29 13:41:38Z - D:\Users\Julio\Downloads\CrystalDiskInfo7_5_0.exe
+  2017-09-29 13:41:38Z - D:\Users\Julio\Downloads\10.2.0\KMSpico.v10.2.0.FINAL-heldigard\KMSpico Install\KMSpico_setup.exe
+  2017-09-29 13:41:38Z - C:\Program Files\KMSpico\KMSELDI.exe
+  2017-09-29 13:41:38Z - C:\Program Files (x86)\Mozilla Firefox\pingsender.exe
+  2017-09-29 13:41:38Z - C:\Program Files (x86)\Steam\steamapps\common\Terraria\tModLoaderServer.exe
+  2017-09-29 13:41:38Z - D:\Users\Julio\Downloads\tModLodear\Terraria.exe
+  2017-09-29 13:41:38Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\17.3.7294.0108\FileSyncConfig.exe
+  2017-09-29 13:41:38Z - D:\Users\Julio\Downloads\League of Legends installer LA1.exe
+  2017-09-29 13:41:38Z - D:\Users\Julio\Downloads\AccessRuntime_X64.exe
+  2017-09-29 13:41:38Z - C:\Program Files\WindowsApps\Microsoft.MicrosoftOfficeHub_17.8830.7600.0_x64__8wekyb3d8bbwe\Office16\OfficeHubWin32.exe
+  2017-09-29 13:41:38Z - C:\Program Files\AVAST Software\SZBrowser\launcher.exe
+  2017-09-29 13:41:38Z - C:\Riot Games\League of Legends\LeagueClient.exe
+  2017-09-29 13:41:38Z - D:\Users\Julio\Downloads\Photoshop_Set-Up.exe
+  2017-09-29 13:41:38Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\17.005.0107.0008\FileSyncConfig.exe
+  2017-09-29 13:41:38Z - C:\Program Files (x86)\Epic Games\Launcher\Portal\SelfUpdateStaging\Install\Portal\Extras\Redist\LauncherPrereqSetup_x64.exe
+  2017-09-29 13:41:38Z - C:\Program Files\AVAST Software\Avast\VisthAux.exe
+  2017-09-29 13:41:38Z - C:\ProgramData\NVIDIA Corporation\Downloader\a50344aae9f3f44da37094b3e01fbb44\GeForce_Experience_Update_v3.10.0.95.exe
+  2017-09-29 13:41:38Z - C:\ProgramData\NVIDIA Corporation\Downloader\df4195c155410738f3135e2f37c0a859\GeForce_Experience_Update_v3.12.0.84_Official_D74701.exe
+  2019-03-19 04:44:28Z - C:\Program Files (x86)\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA GeForce Experience.exe
+  2017-09-29 13:41:38Z - D:\Users\Julio\Downloads\Emulador N3DS\citra-qt.exe
+  2017-09-29 13:41:38Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\18.025.0204.0009\FileSyncConfig.exe
+  2017-09-29 13:41:38Z - D:\Users\Julio\Downloads\devcpp-4.9.9.2_setup.exe
+  2017-09-29 13:41:38Z - C:\Program Files\Microsoft Office\Office14\MSACCESS.EXE
+  2017-09-29 13:41:38Z - C:\AeriaGames\S4 League\unins000.exe
+  2017-09-29 13:41:38Z - D:\Users\Julio\Downloads\Nueva carpeta (8)\s4league_us_downloader.exe
+  2017-09-29 13:41:38Z - D:\Users\Julio\Downloads\S4league_US_downloader.exe
+  2017-09-29 13:41:38Z - C:\AeriaGames\S4League\patcher_s4.exe
+  2017-09-29 13:41:38Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\18.044.0301.0006\FileSyncConfig.exe
+  2017-09-29 13:41:38Z - D:\Users\Julio\Downloads\Nueva carpeta (8)\devcpp-4.9.9.2_setup.exe
+  2018-04-11 23:34:19Z - C:\Dev-Cpp\devcpp.exe
+  2017-09-29 13:41:38Z - D:\Users\Julio\Downloads\Nueva carpeta (8)\Nueva carpeta\ModOrganizer\ModOrganizer.exe
+  2017-09-29 13:41:38Z - C:\Program Files\Microsoft Office\Office16\MSPUB.EXE
+  2017-09-29 13:41:38Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\18.065.0329.0002\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Temp\7zOCC3A33C3\agth.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\Translation Aggregator 0.4.9.r171\Translation Aggregator.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\Translation Aggregator\Translation Aggregator.exe
+  2018-04-11 23:34:19Z - C:\Program Files\internet explorer\iexplore.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\18.091.0506.0007\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - C:\Riot Games\League of Legends\Uninstall League of Legends.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\Danganronpa.Espanol-Transcene.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\18.111.0603.0006\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\18.131.0701.0007\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\jdk-10.0.2_windows-x64_bin.exe
+  2018-04-11 23:34:19Z - C:\Program Files (x86)\AVAST Software\Browser\Application\AvastBrowser.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\18.151.0729.0006\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\18.151.0729.0012\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\ZAP_2_7_0_windows.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\18.172.0826.0010\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\AdobeARM.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\Stremio+4.4.10.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\Battle.net-Setup.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\18.192.0920.0015\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\eclipse\javascript-2018-09\eclipse\eclipse.exe
+  2018-04-11 23:34:19Z - C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\UplayService.exe
+  2018-04-11 23:34:19Z - C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\18.212.1021.0008\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\18.222.1104.0007\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Desktop\miwifi_setup_2.3.759.exe
+  2019-03-19 04:44:28Z - C:\Program Files (x86)\XiaoMi\MiWiFi\MiWiFi.exe
+  2018-04-11 23:34:19Z - D:\_Activad_res\KMSpico.v10.2.0.FINAL-heldigard\KMSpico Install\KMSpico_setup.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\VirtualBox-6.0.0-127566-Win.exe
+  2019-03-19 04:44:28Z - C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+  2018-04-11 23:34:19Z - C:\Program Files\Oracle\VirtualBox\VBoxExtPackHelperApp.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\balenaEtcher-Setup-1.4.8-x64.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Desktop\CapcoMCpS2\fb 0ne-four 0.7.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Programs\balena-etcher\balenaEtcher.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\18.240.1202.0004\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\19.002.0107.0008\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\ApexLegendsInstaller.exe
+  2018-04-11 23:34:19Z - C:\Program Files\AVAST Software\Avast\AvastUI.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\VoicemodSetup.exe
+  2018-04-11 23:34:19Z - C:\Program Files\Voicemod Desktop\unins000.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\Detection.exe
+  2019-03-19 04:44:28Z - C:\Program Files (x86)\Origin\vcredist_x64_vs2015.exe
+  2019-03-19 04:44:28Z - C:\Program Files (x86)\Origin\vcredist_x86_vs2015.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\19.012.0121.0011\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\Detection (1).exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\Detection (2).exe
+  2019-03-19 04:44:28Z - C:\Users\Julio\AppData\Local\Discord\Update.exe
+  2018-04-11 23:34:19Z - C:\Program Files\WindowsApps\Microsoft.MicrosoftOfficeHub_18.1903.1152.0_x64__8wekyb3d8bbwe\LocalBridge.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\eclipse\eclipse.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\eclipse\eclipsec.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\eclipse-inst-win64.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\19.033.0218.0011\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\eclipse\java-2019-03\eclipse\eclipse.exe
+  2019-03-19 04:44:28Z - C:\Program Files (x86)\Origin\legacyPM\OriginLegacyCLI.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Programs\LNV\Stremio-4\stremio.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\19.043.0304.0007\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - C:\Program Files (x86)\Ubisoft\Ubisoft Game Launcher\Uplay.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\arduino-1.8.9-windows.exe
+  2018-04-11 23:34:19Z - C:\Program Files (x86)\Arduino\arduino.exe
+  2018-04-11 23:34:19Z - C:\Program Files\Microsoft Office\Office16\EXCEL.EXE
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\19.062.0331.0006\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\19.070.0410.0005\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - C:\Program Files (x86)\Origin\Origin.exe
+  2018-04-11 23:34:19Z - C:\Program Files (x86)\Steam\steamapps\common\Terraria\Terraria.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\PlayStationNow-11.0.2.exe
+  2018-04-11 23:34:19Z - D:\games\Fortnite\FortniteGame\Binaries\Win64\FortniteClient-Win64-Shipping_BE.exe
+  2018-04-11 23:34:19Z - SIGN.MEDIA=5DCB714C setup.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\Updates Sims 4\Update 1.47.51-TS4-PiviGames.blog\The Sims 4 update 1.47.51.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\Updates Sims 4\TS4-Update-14890-PiviGames.blog\The Sims 4 update 1.48.90.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\Updates Sims 4\Update 1.48.94\The Sims 4 update 1.48.94.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\Updates Sims 4\Update 1.49.65-PiviGames.blog\The Sims 4 update 1.49.65.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\Updates Sims 4\Update 1.50.67-PiviGames.blog\The Sims 4 update 1.50.67.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\Updates Sims 4\Update-1.51.75-PiviGames.blog\The Sims 4 update 1.51.75.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\Updates Sims 4\Update 1.51.77\The Sims 4 update 1.51.77.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\19.070.0410.0007\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - C:\ProgramData\BlueStacks\Client\Bluestacks.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\19.086.0502.0006\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - SIGN.MEDIA=30E81A16 setup.exe
+  2018-04-11 23:34:19Z - C:\Games\Jump Force\JUMP_FORCE\Binaries\Win64\JUMP_FORCE-Win64-Shipping.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\19.103.0527.0003\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.48.51.0_x64__kzf8qxf38zg5c\SkypeBridge\SkypeBridge.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\Updates Sims 4\update 1.52.100 TS4-PiviGames.blog\The Sims 4 update.exe
+  2018-04-11 23:34:19Z - C:\Program Files\WindowsApps\Microsoft.MicrosoftOfficeHub_18.1905.1301.0_x64__8wekyb3d8bbwe\LocalBridge.exe
+  2018-04-11 23:34:19Z - C:\Games\The Sims 4\Game\Bin\TS4_x64.exe
+  2018-04-11 23:34:19Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\19.123.0624.0005\FileSyncConfig.exe
+  2018-04-11 23:34:19Z - D:\Users\Julio\Downloads\LauncherFenix-Minecraft-6.exe
+  2018-04-11 23:34:19Z - C:\Program Files\Java\jre-10.0.2\bin\javaw.exe
+  2019-03-19 04:44:28Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\19.152.0801.0007\FileSyncConfig.exe
+  2019-03-19 04:44:28Z - C:\Games\Jump Force\unins000.exe
+  2019-03-19 04:44:28Z - C:\Program Files (x86)\FINAL FANTASY IV\unins000.exe
+  2019-03-19 04:44:28Z - C:\Program Files (x86)\Final Fantasy III\unins000.exe
+  2019-03-19 04:44:28Z - C:\Program Files (x86)\Final Fantasy III\unins001.exe
+  2019-03-19 04:44:28Z - C:\Games\The Sims 4\unins000.exe
+  2019-03-19 04:44:28Z - C:\Program Files (x86)\World of Warcraft\World of Warcraft Launcher.exe
+  2019-03-19 04:44:28Z - C:\Program Files (x86)\World of Warcraft\_classic_\Wow.exe
+  2019-03-19 04:44:28Z - C:\ProgramData\NVIDIA Corporation\Downloader\latest\setup.exe
+  2019-03-19 04:44:28Z - C:\Program Files (x86)\NVIDIA Corporation\NvNode\nvnodejslauncher.exe
+  2019-03-19 04:44:28Z - C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA GeForce Experience.exe
+  2019-03-19 04:44:28Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\19.152.0801.0008\FileSyncConfig.exe
+  2019-03-19 04:44:28Z - D:\Users\Julio\Downloads\Rockstar-Games-Launcher.exe
+  2019-03-19 04:44:28Z - C:\Program Files\Rockstar Games\Launcher\LauncherPatcher.exe
+  2019-03-19 04:44:28Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\19.152.0801.0009\FileSyncConfig.exe
+  2019-03-19 04:44:28Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\19.152.0927.0012\FileSyncConfig.exe
+  2019-03-19 04:44:28Z - D:\games\LegoBatman\DirectX\DXSETUP.exe
+  2019-03-19 04:44:28Z - D:\Users\Julio\Downloads\gamedownload_i18n_900205241_SpecialPackage_copy_624.exe
+  2019-03-19 04:44:28Z - C:\ProgramData\NVIDIA Corporation\Downloader\a22cab95bded0dc3fbe7347e4697719f_extracted\setup.exe
+  2019-03-19 04:44:28Z - C:\Users\Julio\AppData\Local\Discord\app-0.0.305\Discord.exe
+  2019-03-19 04:44:28Z - C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+  2019-03-19 04:44:28Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\19.174.0902.0013\FileSyncConfig.exe
+  2019-03-19 04:44:28Z - C:\Program Files (x86)\Origin\OriginClientService.exe
+  2019-03-19 04:44:28Z - C:\Program Files (x86)\Origin\OriginWebHelperService.exe
+  2019-03-19 04:44:28Z - C:\Program Files\Microsoft Office\Office16\WINWORD.EXE
+  2019-03-19 04:44:28Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\Update\OneDriveSetup.exe
+  2019-03-19 04:44:28Z - C:\Users\Julio\AppData\Local\Microsoft\OneDrive\19.192.0926.0012\FileSyncConfig.exe
+  2019-03-19 04:44:28Z - D:\program files\txgameassistant\appmarket\GF186\TUninstall.exe
+  2019-03-19 04:44:28Z - D:\Users\Julio\Downloads\VSCodeUserSetup-x64-1.40.2.exe
+  2019-03-19 04:44:28Z - C:\Users\Julio\AppData\Local\Programs\Microsoft VS Code\Code.exe
+  2019-03-19 04:44:28Z - C:\Users\Julio\AppData\Local\Programs\Opera GX\launcher.exe
+  2019-03-19 04:44:28Z - C:\Program Files\CCleaner\CCleaner64.exe
+  2019-03-19 04:44:28Z - C:\Program Files (x86)\Steam\Steam.exe
+  2019-03-19 04:44:28Z - C:\Program Files (x86)\Battle.net\Battle.net Launcher.exe
+  2019-03-19 04:44:28Z - C:\ProgramData\Origin\SelfUpdate\Staged\OriginThinSetupInternal.exe
+  2019-03-19 04:44:28Z - C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+  2019-03-19 04:44:28Z - C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe
+----------------------------------------
+appkeys v.20200517
+(NTUSER.DAT, Software) Extracts AppKeys entries.
+
+----------------------------------------
+applets v.20200525
+(NTUSER.DAT) Gets contents of user's Applets key
+
+Applets
+Software\Microsoft\Windows\CurrentVersion\Applets
+LastWrite Time 2019-09-01 23:59:43Z
+
+Software\Microsoft\Windows\CurrentVersion\Applets\Paint\Recent File List not found.
+----------------------------------------
+apppaths v.20200511
+(NTUSER.DAT,Software) Gets content of App Paths subkeys
+
+2019-12-12 20:13:52Z
+  opera.exe - "C:\Users\Julio\AppData\Local\Programs\Opera GX\Launcher.exe"
+----------------------------------------
+Software\Microsoft\IntelliPoint\AppSpecific not found.
+----------------------------------------
+appx v.20200427
+(NTUSER.DAT, USRCLASS.DAT) Checks for persistence via Universal Windows Platform Apps
+
+----------------------------------------
+arpcache v.20200515
+(NTUSER.DAT) Retrieves CurrentVersion\App Management\ARPCache entries
+
+Software\Microsoft\Windows\CurrentVersion\App Management\ARPCache not found.
+----------------------------------------
+attachmgr v.20200525
+(NTUSER.DAT) Checks user's keys that manage the Attachment Manager functionality
+
+Software\Microsoft\Windows\CurrentVersion\Policies\Associations not found.
+
+Software\Microsoft\Windows\CurrentVersion\Policies\Attachments not found.
+
+----------------------------------------
+cached v.20200525
+(NTUSER.DAT) Gets cached Shell Extensions from NTUSER.DAT hive
+
+Software\Microsoft\Windows\CurrentVersion\Shell Extensions\Cached
+LastWrite Time 2019-12-26 02:55:14Z
+
+2019-09-02 00:19:36Z  First Load: {FBF23B40-E3F0-101B-8488-00AA003E56F8} (IShellLinkW)
+2019-09-02 00:20:03Z  First Load: {4234D49B-0245-4DF3-B780-3893943456E1} (IShellFolder)
+2019-09-02 00:20:20Z  First Load: {40DD6E20-7C17-11CE-A804-00AA003CA9F6} (IShellCopyHookW)
+2019-09-02 00:20:36Z  First Load: {C7657C4A-9F68-40FA-A4DF-96BC08EB3551} ({E357FCCD-A995-4576-B01F-234630154E96})
+2019-09-02 00:20:37Z  First Load: {9C73F5E5-7AE7-4E32-A8E8-8D23B85255BF} (IShellFolder)
+2019-09-02 00:20:38Z  First Load: {BBACC218-34EA-4666-9D7A-C78F2274A524} (IShellIconOverlayIdentifier)
+2019-09-02 00:20:38Z  First Load: {5AB7172C-9C11-405C-8DD5-AF20F3606282} (IShellIconOverlayIdentifier)
+2019-09-02 00:20:38Z  First Load: {A78ED123-AB77-406B-9962-2A5D9D2F7F30} (IShellIconOverlayIdentifier)
+2019-09-02 00:20:38Z  First Load: {F241C880-6982-4CE5-8CF7-7085BA96DA5A} (IShellIconOverlayIdentifier)
+2019-09-02 00:20:38Z  First Load: {A0396A93-DC06-4AEF-BEE9-95FFCCAEF20E} (IShellIconOverlayIdentifier)
+2019-09-02 00:20:38Z  First Load: {9AA2F32D-362A-42D9-9328-24A483E2CCC3} (IShellIconOverlayIdentifier)
+2019-09-02 00:20:38Z  First Load: {C5FF006E-2AE9-408C-B85B-2DFDD5449D9C} (IShellIconOverlayIdentifier)
+2019-09-02 00:20:38Z  First Load: {8BA85C75-763B-4103-94EB-9470F12FE0F7} (IShellIconOverlayIdentifier)
+2019-09-02 00:20:39Z  First Load: {CD55129A-B1A1-438E-A425-CEBC7DC684EE} (IShellIconOverlayIdentifier)
+2019-09-02 00:20:39Z  First Load: {E768CD3B-BDDC-436D-9C13-E1B39CA257B1} (IShellIconOverlayIdentifier)
+2019-09-02 00:20:39Z  First Load: {472083B0-C522-11CF-8763-00608CC02F24} (IShellIconOverlayIdentifier)
+2019-09-02 00:20:46Z  First Load: {04731B67-D933-450A-90E6-4ACD2E9408FE} (IDelegateFolder)
+2019-09-02 00:20:48Z  First Load: {4ED3A719-CEA8-4BD9-910D-E252F997AFC2} (IExecuteCommand)
+2019-09-02 00:22:02Z  First Load: {2227A280-3AEA-1069-A2DE-08002B30309D} (IShellFolder)
+2019-09-02 00:22:03Z  First Load: {FF393560-C2A7-11CF-BFF4-444553540000} (IShellFolder)
+2019-09-02 00:22:13Z  First Load: {937847E7-C78A-4834-9CE8-5F3EC99BD604} ({7F7A7A45-5CDB-41F3-8DC5-F3D47745615C})
+2019-09-02 00:24:56Z  First Load: {72C984BA-0666-4D3F-A0DE-96BF43838E6E} ({0CB6E812-BD37-4416-BFAE-E44A7C15B453})
+2019-09-02 00:27:19Z  First Load: {289AF617-1CC3-42A6-926C-E6A863F0E3BA} (IDelegateFolder)
+2019-09-02 00:27:19Z  First Load: {35786D3C-B075-49B9-88DD-029876E11C01} (IDelegateFolder)
+2019-09-02 00:55:20Z  First Load: {BD7A2E7B-21CB-41B2-A086-B309680C6B7E} (IShellFolder)
+2019-09-02 00:55:20Z  First Load: {9E175B8B-F52A-11D8-B9A5-505054503030} (IDBProperties)
+2019-09-02 01:15:53Z  First Load: {A38B883C-1682-497E-97B0-0A3A9E801682} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2019-09-02 03:20:38Z  First Load: {00021401-0000-0000-C000-000000000046} (IContextMenu)
+2019-09-02 03:21:38Z  First Load: {596AB062-B4D2-4215-9F74-E9109B0A8153} (IContextMenu)
+2019-09-02 03:21:38Z  First Load: {472083B0-C522-11CF-8763-00608CC02F24} (IContextMenu)
+2019-09-02 03:21:39Z  First Load: {888DCA60-FC0A-11CF-8F0F-00C04FD7D062} (IDropTarget)
+2019-09-02 03:21:40Z  First Load: {C52B9871-E5E9-41FD-B84D-C5ACADBEC7AE} (IContextMenu)
+2019-09-02 03:21:43Z  First Load: {E61BF828-5E63-4287-BEF1-60B1A4FDE0E3} (IContextMenu)
+2019-09-02 03:21:43Z  First Load: {F81E9010-6EA4-11CE-A7FF-00AA003CA9F6} (IContextMenu)
+2019-09-02 03:21:43Z  First Load: {E2BF9676-5F8F-435C-97EB-11607A5BEDF7} (IContextMenu)
+2019-09-02 03:21:43Z  First Load: {09A47860-11B0-4DA5-AFA5-26D86198A780} (IContextMenu)
+2019-09-02 03:21:43Z  First Load: {B298D29A-A6ED-11DE-BA8C-A68E55D89593} (IContextMenu)
+2019-09-02 03:21:43Z  First Load: {23170F69-40C1-278A-1000-000100020000} (IContextMenu)
+2019-09-02 03:21:43Z  First Load: {CB3D0F55-BC2C-4C1A-85ED-23ED75B5106B} (IContextMenu)
+2019-09-02 03:21:44Z  First Load: {9E56BE60-C50F-11CF-9A2C-00A0C90A90CE} (IDropTarget)
+2019-09-02 03:21:44Z  First Load: {470C0EBD-5D73-4D58-9CED-E91E22E23282} (IContextMenu)
+2019-09-02 03:21:44Z  First Load: {E97DEC16-A50D-49BB-AE24-CF682282E08D} (IContextMenu)
+2019-09-02 03:21:44Z  First Load: {A929C4CE-FD36-4270-B4F5-34ECAC5BD63C} (IContextMenu)
+2019-09-02 03:21:44Z  First Load: {1D27F844-3A1F-4410-85AC-14651078412D} (IContextMenu)
+2019-09-02 08:11:51Z  First Load: {11DBB47C-A525-400B-9E80-A54615A090C0} (IExecuteCommand)
+2019-09-02 08:11:52Z  First Load: {B7373566-8FF2-45D8-AF1F-DA39F289BCF9} (IExplorerCommand)
+2019-09-02 08:11:52Z  First Load: {E88DCCE0-B7B3-11D1-A9F0-00AA0060FA31} (IShellFolder)
+2019-09-02 08:11:53Z  First Load: {F02C1A0D-BE21-4350-88B0-7367FC96EF3C} (IShellFolder)
+2019-09-02 08:11:53Z  First Load: {C41662BB-1FA0-4CE0-8DC5-9B7F8279FF97} ({BB2E617C-0920-11D1-9A0B-00C04FC2D6C1})
+2019-09-02 08:12:05Z  First Load: {99D353BC-C813-41EC-8F28-EAE61E702E57} (IExplorerCommand)
+2019-09-02 08:12:06Z  First Load: {ECF03A32-103D-11D2-854D-006008059367} (IDropTarget)
+2019-09-02 08:12:06Z  First Load: {9E56BE61-C50F-11CF-9A2C-00A0C90A90CE} (IDropTarget)
+2019-09-02 08:12:06Z  First Load: {9113A02D-00A3-46B9-BC5F-9C04DADDD5D7} (IDelegateFolder)
+2019-09-02 08:12:15Z  First Load: {939D20AC-8036-406F-BD5C-BF672896BD71} (IExplorerCommand)
+2019-09-02 08:55:43Z  First Load: {993BE281-6695-4BA5-8A2A-7AACBFAAB69E} ({0000013A-0000-0000-C000-000000000046})
+2019-09-02 08:58:40Z  First Load: {BD472F60-27FA-11CF-B8B4-444553540000} (IContextMenu)
+2019-09-02 09:00:01Z  First Load: {D6791A63-E7E2-4FEE-BF52-5DED8E86E9B8} (IContextMenu)
+2019-09-02 09:00:01Z  First Load: {2854F705-3548-414C-A113-93E27C808C85} (IContextMenu)
+2019-09-02 09:00:01Z  First Load: {3D1975AF-48C6-4F8E-A182-BE0E08FA86A9} (IContextMenu)
+2019-09-03 08:17:40Z  First Load: {FBF23B40-E3F0-101B-8488-00AA003E56F8} (IExtractIconW)
+2019-09-03 17:28:19Z  First Load: {D9144DCD-E998-4ECA-AB6A-DCD83CCBA16D} (IShellIconOverlayIdentifier)
+2019-09-03 20:17:35Z  First Load: {0CD7A5C0-9F37-11CE-AE65-08002B2E1262} (IShellFolder)
+2019-09-05 02:32:29Z  First Load: {F81E9010-6EA4-11CE-A7FF-00AA003CA9F6} ({000214E9-0000-0000-C000-000000000046})
+2019-09-05 02:32:29Z  First Load: {1F2E5C40-9550-11CE-99D2-00AA006E086C} ({000214E9-0000-0000-C000-000000000046})
+2019-09-05 02:32:29Z  First Load: {4A7DED0A-AD25-11D0-98A8-0800361B1103} ({000214E9-0000-0000-C000-000000000046})
+2019-09-05 02:32:29Z  First Load: {596AB062-B4D2-4215-9F74-E9109B0A8153} ({000214E9-0000-0000-C000-000000000046})
+2019-09-05 02:32:29Z  First Load: {ECCDF543-45CC-11CE-B9BF-0080C87CDBA6} ({000214E9-0000-0000-C000-000000000046})
+2019-09-05 02:33:20Z  First Load: {4C8CC9CB-80CA-4E16-9F60-F5EB55092361} (IExplorerCommand)
+2019-09-05 02:33:20Z  First Load: {7B0C11A0-2FAF-40D4-9FE5-28FA27C85442} (IExplorerCommand)
+2019-09-05 02:33:20Z  First Load: {3613F1D2-C9A5-4F41-A070-E5BB823B2E5B} (IExplorerCommand)
+2019-09-05 02:33:20Z  First Load: {10E59D21-3860-4ED8-BD52-883E116A892E} (IExplorerCommand)
+2019-09-05 02:33:20Z  First Load: {DF46C02A-3568-4765-AAD3-88F5E1D42F92} (IExplorerCommand)
+2019-09-05 02:33:20Z  First Load: {C7F2FB0F-ACC2-4DDF-9D8A-5E6E80D61024} (IExplorerCommand)
+2019-09-05 02:33:20Z  First Load: {7C127AC8-EC8D-40F2-91D0-B791CFC2397B} (IExplorerCommand)
+2019-09-05 02:33:20Z  First Load: {A38E6420-19EC-490C-B4BF-51673C360213} (IExplorerCommand)
+2019-09-05 02:33:20Z  First Load: {87AB8051-37BD-4E70-83C0-1E4F9AE1D37D} (IExplorerCommand)
+2019-09-05 02:33:20Z  First Load: {D509C21A-B88C-4AD1-8FAD-D6A7572728E5} (IExplorerCommand)
+2019-09-05 02:33:20Z  First Load: {576C5669-E07F-4A1B-9A7A-8F85D944283B} (IExplorerCommand)
+2019-09-05 02:33:20Z  First Load: {652527C4-4A72-4BD3-BFAB-4B06AB172D7C} (IExplorerCommand)
+2019-09-05 02:33:20Z  First Load: {CC3FA696-93B8-4745-B935-0599ACB97747} (IExplorerCommand)
+2019-09-05 02:33:23Z  First Load: {FBF23B40-E3F0-101B-8488-00AA003E56F8} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2019-09-05 02:33:23Z  First Load: {B2952B16-0E07-4E5A-B993-58C52CB94CAE} (IShellFolder)
+2019-09-05 02:33:55Z  First Load: {1D2680C9-0E2A-469D-B787-065558BC7D43} (IShellFolder)
+2019-09-05 02:33:55Z  First Load: {88C6C381-2E85-11D0-94DE-444553540000} (IShellFolder)
+2019-09-05 02:33:55Z  First Load: {BD84B380-8CA2-1069-AB1D-08000948F534} (IShellFolder)
+2019-09-05 02:33:56Z  First Load: {F5175861-2688-11D0-9C5E-00AA00A45957} (IShellFolder)
+2019-09-05 02:39:30Z  First Load: {5FA29220-36A1-40F9-89C6-F4B384B7642E} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2019-09-05 03:24:24Z  First Load: {71DCE5D6-4B57-496B-AC21-CD5B54EB93FD} ({162C6FB5-44D3-435B-903D-E613FA093FB5})
+2019-09-06 16:09:18Z  First Load: {AB968F1E-E20B-403A-9EB8-72EB0EB6797E} (IExtractIconW)
+2019-09-06 16:09:55Z  First Load: {E2BF9676-5F8F-435C-97EB-11607A5BEDF7} (IExplorerCommand)
+2019-09-06 16:10:41Z  First Load: {ED9D80B9-D157-457B-9192-0E7280313BF0} (IDropTarget)
+2019-09-06 16:10:41Z  First Load: {B8CDCB65-B1BF-4B42-9428-1DFDB7EE92AF} (IContextMenu)
+2019-09-06 16:10:55Z  First Load: {E44E9428-BDBC-4987-A099-40DC8FD255E7} (IExecuteCommand)
+2019-09-06 16:13:12Z  First Load: {B8BE1E19-B9E4-4EBB-B7F6-A8FE1B3871E0} ({BB2E617C-0920-11D1-9A0B-00C04FC2D6C1})
+2019-09-09 09:04:01Z  First Load: {3F30C968-480A-4C6C-862D-EFC0897BB84B} ({BB2E617C-0920-11D1-9A0B-00C04FC2D6C1})
+2019-09-09 23:34:43Z  First Load: {0BF754AA-C967-445C-AB3D-D8FDA9BAE7EF} (IContextMenu)
+2019-09-17 02:05:31Z  First Load: {44090B31-CDF9-4AD1-8182-DB5DA3627974} (IExecuteCommand)
+2019-10-10 04:22:42Z  First Load: {C2B136E2-D50E-405C-8784-363C582BF43E} (IDelegateFolder)
+2019-10-18 06:54:23Z  First Load: {2781761E-28E0-4109-99FE-B9D127C57AFE} ({56FFCC30-D398-11D0-B2AE-00A0C908FA49})
+2019-10-28 05:25:12Z  First Load: {A9249952-F4C6-4BCD-9B44-6A5BA9B5209E} (IExecuteCommand)
+2019-10-30 19:44:40Z  First Load: {8BE9F5EA-E746-4E47-AD57-3FB191CA1EED} ({358B0897-FF98-48E7-9CA7-0F1D980BFB56})
+2019-11-05 04:49:50Z  First Load: {FBF23B40-E3F0-101B-8488-00AA003E56F8} ({00021500-0000-0000-C000-000000000046})
+2019-11-19 04:55:48Z  First Load: {7AD84985-87B4-4A16-BE58-8B72A5B390F7} (IContextMenu)
+2019-11-21 04:20:24Z  First Load: {C5AEC3EC-E812-4677-A9A7-4FEE1F9AA000} ({E357FCCD-A995-4576-B01F-234630154E96})
+2019-11-21 04:20:29Z  First Load: {F81B1B56-7613-4EE4-BC05-1FAB5DE5C07E} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2019-11-23 05:42:04Z  First Load: {264FFAF3-9A9C-42B7-AEDB-34896CDBC7C1} (IExecuteCommand)
+2019-12-13 04:20:28Z  First Load: {513D916F-2A8E-4F51-AEAB-0CBC76FB1AF8} ({000214E9-0000-0000-C000-000000000046})
+2019-12-13 04:20:28Z  First Load: {7444C719-39BF-11D1-8CD9-00C04FC29D45} ({000214E9-0000-0000-C000-000000000046})
+2019-12-13 04:20:28Z  First Load: {3EA48300-8CF6-101B-84FB-666CCB9BCD32} ({000214E9-0000-0000-C000-000000000046})
+2019-12-13 04:22:56Z  First Load: {E46787A1-4629-4423-A693-BE1F003B2742} ({886D8EEB-8CF2-4446-8D02-CDBA1DBDCF99})
+2019-12-26 02:55:06Z  First Load: {55B3A0BD-4D28-42FE-8CFB-FA3EDFF969B8} ({000214E9-0000-0000-C000-000000000046})
+2019-12-26 02:55:08Z  First Load: {7988B573-EC89-11CF-9C00-00AA00A14F56} ({000214E9-0000-0000-C000-000000000046})
+2019-12-26 02:55:14Z  First Load: {7A80E4A8-8005-11D2-BCF8-00C04F72C717} (IExtractIconW)
+----------------------------------------
+cmdproc v.20200515
+(NTUSER.DAT) Autostart - get Command Processor\AutoRun value from NTUSER.DAT hive
+
+Software\Microsoft\Command Processor
+LastWrite Time 2019-09-02 00:05:58Z
+AutoRun value not found.
+----------------------------------------
+comdlg32 v.20200517
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32
+LastWrite Time 2019-09-02 08:58:26Z
+CIDSizeMRU
+LastWrite: 2019-12-07 06:58:29Z
+Note: All value names are listed in MRUListEx order.
+
+  PickerHost.exe
+  chrome.exe
+  Code.exe
+  {3F61F722-FC0D-4F08-8570-947FA2F5B63A}
+  {E10CF1E8-0935-425C-BD08-C80BB8AD8EF3}
+  VirtualBox.exe
+  {B8BDEE68-D527-4F25-BBA7-D00BC4879A6F}
+  {D03B3B58-CBFF-4CDC-95F8-6A7BED17C1B4}
+  {4841AD44-3BF4-4988-8BF8-7CA99F6BBDFA}
+  {08BF3620-BBE9-4490-B89C-FF2CC21095AD}
+  mspaint.exe
+
+LastVisitedPidlMRU
+LastWrite time: 2019-11-30 17:13:45Z
+Note: All value names are listed in MRUListEx order.
+
+  Code.exe - My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tareas\Proyectos
+  chrome.exe - My Computer\{d3162b92-9365-467a-956b-92703aca08af}
+  {3F61F722-FC0D-4F08-8570-947FA2F5B63A} - My Computer\D:\Users\Julio\Documents
+  {E10CF1E8-0935-425C-BD08-C80BB8AD8EF3} - My Computer\D:\Users\Julio\Documents
+  {B8BDEE68-D527-4F25-BBA7-D00BC4879A6F} - My Computer\{d3162b92-9365-467a-956b-92703aca08af}
+  {D03B3B58-CBFF-4CDC-95F8-6A7BED17C1B4} - My Computer\D:\Users\Julio\Music
+  PickerHost.exe - My Computer\{d3162b92-9365-467a-956b-92703aca08af}
+  {4841AD44-3BF4-4988-8BF8-7CA99F6BBDFA} - My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}
+  {08BF3620-BBE9-4490-B89C-FF2CC21095AD} - My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}
+  mspaint.exe - Explorer
+
+OpenSavePidlMRU
+LastWrite time: 2019-11-17 21:11:29Z
+OpenSavePidlMRU\*
+LastWrite Time: Sat Nov 30 17:13:45 2019
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tareas\Proyectos
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tareas
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tarea 3 Telecomunicaciones.docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tarea 2 Telecomunicaciones.docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tarea 1 Telecomunicaciones.docx
+  My Computer\D:\Users\Julio\Documents\Tarea 3 Telecomunicaciones.docx
+  My Computer\D:\Users\Julio\Documents\Tarea 2 Telecomunicaciones.docx
+  My Computer\D:\Users\Julio\Documents\Tarea 1 Telecomunicaciones.docx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\PIA_SISTOP.docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\PIA- Programa de Seguridad.pptx
+  My Computer\D:\Users\Julio\Documents\PIA- Programa de Seguridad.pptx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\PIA- Programa de Seguridad.docx
+  My Computer\D:\Users\Julio\Documents\PIA- Programa de Seguridad.docx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Sears.docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\1864290_Bonilla_Julio_PIA-Presentacion.pptx
+  My Computer\D:\Users\Julio\Documents\1864290_Bonilla_Julio_PIA-Presentacion.pptx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\1864290_Bonilla_Julio_Evid-5.docx
+  My Computer\{3dfdf296-dbec-4fb4-81d1-6a3438bcf4de}\fondo-elegante-presentaciones-negocios-tecnologia_28976-311.jpg
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\1864290_Bonilla_Julio_PIA.docx
+  My Computer\D:\Users\Julio\Documents\1864290_Bonilla_Julio_PIA.docx
+
+OpenSavePidlMRU\docx
+LastWrite Time: Sat Nov 23 17:08:46 2019
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tarea 3 Telecomunicaciones.docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tarea 2 Telecomunicaciones.docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tarea 1 Telecomunicaciones.docx
+  My Computer\D:\Users\Julio\Documents\Tarea 3 Telecomunicaciones.docx
+  My Computer\D:\Users\Julio\Documents\Tarea 2 Telecomunicaciones.docx
+  My Computer\D:\Users\Julio\Documents\Tarea 1 Telecomunicaciones.docx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\PIA_SISTOP.docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\PIA- Programa de Seguridad.docx
+  My Computer\D:\Users\Julio\Documents\PIA- Programa de Seguridad.docx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Sears.docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\1864290_Bonilla_Julio_Evid-5.docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\1864290_Bonilla_Julio_PIA.docx
+  My Computer\D:\Users\Julio\Documents\1864290_Bonilla_Julio_PIA.docx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\PIA (1).docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Sears.docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tipos de Memoria.docx
+  My Computer\D:\Users\Julio\Documents\Tipos de Memoria.docx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Documentacion TELE.docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Tarea 10 Seguridad.docx
+  My Computer\D:\Users\Julio\Documents\Tarea 10 Seguridad.docx
+
+OpenSavePidlMRU\jpg
+LastWrite Time: Tue Nov 19 04:09:48 2019
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{3dfdf296-dbec-4fb4-81d1-6a3438bcf4de}\fondo-elegante-presentaciones-negocios-tecnologia_28976-311.jpg
+  My Computer\D:\Users\Julio\Music\1112.jpg
+  My Computer\{3dfdf296-dbec-4fb4-81d1-6a3438bcf4de}\111.jpg
+  My Computer\{3dfdf296-dbec-4fb4-81d1-6a3438bcf4de}\1112.jpg
+  My Computer\D:\Users\Julio\Music\74620899_523241905183813_6420025141631123456_n.jpg
+  My Computer\D:\Users\Julio\Music\77002877_778858179209919_1596136273850925056_n.jpg
+  My Computer\{3dfdf296-dbec-4fb4-81d1-6a3438bcf4de}\74620899_523241905183813_6420025141631123456_n.jpg
+  My Computer\{3dfdf296-dbec-4fb4-81d1-6a3438bcf4de}\77002877_778858179209919_1596136273850925056_n.jpg
+  My Computer\D:\Users\Julio\Music\12.jpg
+  My Computer\{3dfdf296-dbec-4fb4-81d1-6a3438bcf4de}\11.jpg
+  My Computer\{3dfdf296-dbec-4fb4-81d1-6a3438bcf4de}\12.jpg
+  My Computer\{3dfdf296-dbec-4fb4-81d1-6a3438bcf4de}\222.jpg
+  My Computer\D:\Users\Julio\Music\9.jpg
+  My Computer\D:\Users\Julio\Music\8.jpg
+  My Computer\D:\Users\Julio\Music\7.jpg
+  My Computer\D:\Users\Julio\Music\6.jpg
+  My Computer\D:\Users\Julio\Music\5.jpg
+  My Computer\D:\Users\Julio\Music\4.jpg
+  My Computer\D:\Users\Julio\Music\3.jpg
+  My Computer\D:\Users\Julio\Music\2.jpg
+
+OpenSavePidlMRU\pdf
+LastWrite Time: Sun Nov 17 21:12:06 2019
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\PIA_programa_Seguridad.pdf
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\rruizmutfm0615-2.pdf
+
+OpenSavePidlMRU\png
+LastWrite Time: Tue Sep 24 17:18:17 2019
+Note: All value names are listed in MRUListEx order.
+
+  Explorer\Banner.png
+
+OpenSavePidlMRU\pptx
+LastWrite Time: Thu Nov 21 00:26:22 2019
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\PIA- Programa de Seguridad.pptx
+  My Computer\D:\Users\Julio\Documents\PIA- Programa de Seguridad.pptx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\1864290_Bonilla_Julio_PIA-Presentacion.pptx
+  My Computer\D:\Users\Julio\Documents\1864290_Bonilla_Julio_PIA-Presentacion.pptx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Practica9Presentacion-1864290.pptx
+  My Computer\D:\Users\Julio\Documents\Practica9Presentacion-1864290.pptx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\ISO 22301.pptx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\ISO22301-2019.pptx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\ISO22301SABER.pptx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Artes pintura.pptx
+
+
+----------------------------------------
+compdesc v.20200511
+(NTUSER.DAT) Gets contents of user's ComputerDescriptions key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\ComputerDescriptions not found.
+----------------------------------------
+DDO v.20140414
+(NTUSER.DAT) Gets user's DeviceDisplayObjects key contents
+
+Software\Microsoft\Windows NT\CurrentVersion\DeviceDisplayObjects not found.
+----------------------------------------
+disablemru v.20190924
+(NTUSER.DAT, Software) Checks settings disabling user's MRUs
+
+----------------------------------------
+environment v.20200512
+(System, NTUSER.DAT) Get environment vars from NTUSER.DAT & System hives
+
+Environment
+LastWrite Time: 2019-11-30 17:03:17Z
+
+Path                      %USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;C:\Users\Julio\AppData\Local\Programs\Microsoft VS Code\bin
+TEMP                      %USERPROFILE%\AppData\Local\Temp                  
+TMP                       %USERPROFILE%\AppData\Local\Temp                  
+OneDrive                  C:\Users\Julio\OneDrive                           
+OneDriveConsumer          C:\Users\Julio\OneDrive                           
+----------------------------------------
+featureusage v.20200511
+(NTUSER.DAT) Extracts user's FeatureUsage data.
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\FeatureUsage
+LastWrite Time:  2019-09-02 08:55:40Z
+KeyCreationTime: 2019-09-02 00:22:03Z
+
+***AppBadgeUpdated values***
+microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.mail      174
+com.squirrel.Discord.Discord                                                      117
+Chrome                                                                            176
+OperaSoftware.OperaGXWebBrowser.1565668507                                        92
+E7CF176E110C211B                                                                  4
+Avast_Secure_Browser                                                              9
+BlizzardEntertainment.Battlenet.beta                                              6886
+Chrome.UserData.Default                                                           493
+
+***AppLaunch values***
+Chrome                                                                            11
+Microsoft.Windows.Explorer                                                        35
+{6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office16\WINWORD.EXE      25
+OperaSoftware.OperaGXWebBrowser.1565668507                                        55
+E7CF176E110C211B                                                                  4
+Chrome.UserData.Default                                                           38
+{6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office16\POWERPNT.EXE     4
+Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge                               1
+
+***AppSwitched values***
+Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge                               4
+Chrome                                                                            502
+{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Origin\Origin.exe                          81
+BlizzardEntertainment.Battlenet.beta                                              1013
+{6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office16\WINWORD.EXE      503
+Microsoft.Windows.Explorer                                                        104
+com.squirrel.Discord.Discord                                                      879
+*PID000006ec                                                                      1
+OperaSoftware.OperaGXWebBrowser.1565668507                                        351
+{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\World of Warcraft\_classic_\Wow.exe        757
+Microsoft.SkyDrive.Desktop                                                        4
+{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe  166
+*PID0000358c                                                                      1
+{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\World of Warcraft\_retail_\Wow.exe         1757
+{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\dxdiag.exe                                 2
+*PID000043e0                                                                      1
+{6D809377-6AF0-444B-8957-A3773F02200E}\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA GeForce Experience.exe  26
+windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel  26
+{6D809377-6AF0-444B-8957-A3773F02200E}\Realtek\Audio\HDA\RtkNGUI64.exe            1
+*PID00003178                                                                      1
+Microsoft.MinecraftUWP_8wekyb3d8bbwe!App                                          7
+Avast_Secure_Browser                                                              2
+*PID00002e98                                                                      1
+{6D809377-6AF0-444B-8957-A3773F02200E}\Oracle\VirtualBox\VirtualBox.exe           7
+{6D809377-6AF0-444B-8957-A3773F02200E}\Oracle\VirtualBox\VirtualBoxVM.exe         51
+Microsoft.AutoGenerated.{39F3B85B-63FB-0256-8A0A-AAC177410D28}                    33
+D:\Users\Julio\Downloads\Rockstar-Games-Launcher.exe                              1
+RockstarGames.SocialClub.UI.Final                                                 6
+E7CF176E110C211B                                                                  11
+{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\mspaint.exe                                1
+Chrome.UserData.Default                                                           1603
+*PID00003604                                                                      1
+D:\games\Fortnite\FortniteGame\Binaries\Win64\FortniteClient-Win64-Shipping.exe   34
+Valve.Steam.Client                                                                60
+avast! Antivirus                                                                  3
+*PID00003448                                                                      1
+Microsoft.WindowsCalculator_8wekyb3d8bbwe!App                                     7
+*PID00000490                                                                      1
+{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Steam\steamapps\common\Terraria\Terraria.exe  5
+*PID000021d0                                                                      1
+{6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office16\POWERPNT.EXE     317
+{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\msdt.exe                                   1
+*PID0000428c                                                                      1
+D:\games\LegoBatman\Game.exe                                                      11
+{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\cmd.exe                                    1
+{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\WindowsPowerShell\v1.0\powershell.exe      9
+{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\notepad.exe                                10
+D:\Users\Julio\Downloads\gamedownload_i18n_900205241_SpecialPackage_copy_624.exe  1
+Microsoft.AutoGenerated.{E0B930E9-20C9-7D4F-ADA0-7178EA17A763}                    15
+D:\program files\txgameassistant\ui\AndroidEmulator.exe                           35
+D:\program files\txgameassistant\ui\bugreport.exe                                 1
+{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Steam\steamapps\common\Counter-Strike Global Offensive\csgo.exe  8
+*PID00002c68                                                                      1
+D:\games\LegoBatman3\LEGOBatman3.exe                                              1
+*PID000027d4                                                                      1
+{6D809377-6AF0-444B-8957-A3773F02200E}\NVIDIA Corporation\Control Panel Client\nvcplui.exe  1
+*PID00004908                                                                      1
+*PID00002508                                                                      1
+*PID00002f18                                                                      1
+Microsoft.Windows.ControlPanel                                                    1
+{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\OptionalFeatures.exe                       1
+Microsoft.ZuneVideo_8wekyb3d8bbwe!Microsoft.ZuneVideo                             3
+D:\SteamLibrary\steamapps\common\GarrysMod\hl2.exe                                7
+{1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\SndVol.exe                                 3
+*PID00003264                                                                      1
+C:\Users\Julio\AppData\Local\Temp\837C.tmp.exe                                    1
+*PID000033d8                                                                      1
+*PID00002d0c                                                                      1
+Microsoft.VisualStudioCode                                                        50
+*PID00002e38                                                                      1
+{6D809377-6AF0-444B-8957-A3773F02200E}\CCleaner\CCleaner64.exe                    3
+*PID000037fc                                                                      1
+{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\XiaoMi\MiWiFi\MiWiFi.exe                   1
+*PID00001548                                                                      1
+*PID00000e40                                                                      1
+
+***ShowJumpView values***
+{6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office16\WINWORD.EXE      49
+Chrome                                                                            3
+{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\World of Warcraft\_retail_\Wow.exe         2
+Microsoft.Windows.Explorer                                                        21
+Avast_Secure_Browser                                                              2
+{6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office16\EXCEL.EXE        1
+{7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe  3
+{6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office16\POWERPNT.EXE     12
+D:\games\SlimeRancher\SlimeRancher.exe                                            1
+Chrome.UserData.Default                                                           4
+OperaSoftware.OperaGXWebBrowser.1565668507                                        1
+com.squirrel.Discord.Discord                                                      1
+
+***TrayButtonClicked values***
+ShowDesktopButton                                                                 228
+StartButton                                                                       313
+ClockButton                                                                       28
+NotificationCenterButton                                                          7
+SearchButton                                                                      20
+CortanaButton                                                                     1
+
+----------------------------------------
+[-] SOFTWARE\HeidiSQL not found.
+[-] SOFTWARE\HeidiSQL\Servers not found.
+
+----------------------------------------
+[*] Desktop file Lists
+::{645FF040-5081-101B-9F08-00AA002F954E} 
+Firefox.lnk 
+Origin.lnk 
+Discord.lnk 
+Arduino.lnk 
+PlayStation™Now.lnk 
+World of Warcraft.lnk 
+Microsoft Edge.lnk 
+Google Chrome.lnk 
+Epic Games Launcher.lnk 
+Eclipse Java 2019-03.lnk 
+BlueStacks.lnk 
+BlueStacks Multi-Instance Manager.lnk 
+Rockstar Games Launcher.lnk 
+Battle.net.lnk 
+Uplay.lnk 
+Steam.lnk 
+Nuevo documento de texto.txt 
+Navegador Opera GX.lnk 
+LEGO® Batman™ The Videogame.url 
+Visual Studio Code.lnk 
+My Addons 
+LEGO® Batman™ 3 Beyond Gotham.url 
+----------------------------------------
+identities v.20200525
+(NTUSER.DAT) Extracts values from Identities key; NTUSER.DAT
+
+Identities not found.
+
+----------------------------------------
+injectdll64 v.20200427
+(NTUSER.DAT, Software) Retrieve values set to weaken Chrome security
+
+Software\Policies\Google\Chrome\CertificateTransparencyEnforcementDisabledForUrls not found.
+Policies\Google\Chrome\CertificateTransparencyEnforcementDisabledForUrls not found.
+----------------------------------------
+jumplistdata v.20200517
+Gets contents of user's JumpListData key
+
+Software\Microsoft\Windows\CurrentVersion\Search\JumpListData not found.
+----------------------------------------
+knowndev v.20200515
+(NTUSER.DAT) Gets user's KnownDevices key contents
+
+KnownDevices
+Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\KnownDevices
+LastWrite Time 2019-09-01 23:59:43Z
+
+WpdDeviceHandler_{A914FD3C-AEB6-5AE9-9092-4F9ACD12DDBC}  2019-09-01 23:59:43Z
+Label: Redmi 3S
+
+----------------------------------------
+listsoft v.20200517
+(NTUSER.DAT) Lists contents of user's Software key
+
+List the contents of the Software key in the NTUSER.DAT hive
+file, in order by LastWrite time.
+
+2019-12-26 03:17:46Z 	TeamViewer
+2019-12-26 03:17:36Z 	Microsoft
+2019-12-25 20:30:50Z 	Opera Software
+2019-12-22 05:47:48Z 	RegisteredApplications
+2019-11-23 05:43:03Z 	Tencent
+2019-10-28 05:23:58Z 	Mozilla
+2019-10-10 18:21:10Z 	TesSafe
+2019-10-07 19:21:57Z 	Epic Games
+2019-09-06 22:41:36Z 	NVIDIA Corporation
+2019-09-01 23:59:43Z 	Modern UI Test
+2019-09-01 23:59:43Z 	Monomi Park
+2019-09-01 23:59:43Z 	MPC-HC
+2019-09-01 23:59:43Z 	Netscape
+2019-09-01 23:59:43Z 	NewTechnologyStudio
+2019-09-01 23:59:43Z 	NTSCorp
+2019-09-01 23:59:43Z 	ODBC
+2019-09-01 23:59:43Z 	Oracle
+2019-09-01 23:59:43Z 	Piriform
+2019-09-01 23:59:43Z 	QtProject
+2019-09-01 23:59:43Z 	Realtek
+2019-09-01 23:59:43Z 	Rockstar Games
+2019-09-01 23:59:43Z 	Studio MDHR
+2019-09-01 23:59:43Z 	SyncEngines
+2019-09-01 23:59:43Z 	Terraria
+2019-09-01 23:59:43Z 	Trolltech
+2019-09-01 23:59:43Z 	Ubisoft
+2019-09-01 23:59:43Z 	Unity
+2019-09-01 23:59:43Z 	Valve
+2019-09-01 23:59:43Z 	Wow6432Node
+2019-09-01 23:59:43Z 	Xiaomi
+2019-09-01 23:59:41Z 	4A-Games
+2019-09-01 23:59:41Z 	7-Zip
+2019-09-01 23:59:41Z 	Adobe
+2019-09-01 23:59:41Z 	Aeria Games
+2019-09-01 23:59:41Z 	AppDataLow
+2019-09-01 23:59:41Z 	AVAST Software
+2019-09-01 23:59:41Z 	Blizzard Entertainment
+2019-09-01 23:59:41Z 	BlueStacksInstaller
+2019-09-01 23:59:41Z 	Browser Cleanup
+2019-09-01 23:59:41Z 	Burda
+2019-09-01 23:59:41Z 	Chromium
+2019-09-01 23:59:41Z 	Clients
+2019-09-01 23:59:41Z 	Crystal Dynamics
+2019-09-01 23:59:41Z 	d2f3b6c7-6f49-59e2-b8a5-f72e33900c2b
+2019-09-01 23:59:41Z 	DesktopPaints.com
+2019-09-01 23:59:41Z 	Discord
+2019-09-01 23:59:41Z 	Disney Interactive
+2019-09-01 23:59:41Z 	DSCM
+2019-09-01 23:59:41Z 	ej-technologies
+2019-09-01 23:59:41Z 	ElAmigos
+2019-09-01 23:59:41Z 	Electronic Arts
+2019-09-01 23:59:41Z 	Ghost Town Games
+2019-09-01 23:59:41Z 	GNU
+2019-09-01 23:59:41Z 	Google
+2019-09-01 23:59:41Z 	Icaros
+2019-09-01 23:59:41Z 	JavaSoft
+2019-09-01 23:59:41Z 	LAV
+2019-09-01 23:59:41Z 	Logitech
+2019-09-01 23:59:41Z 	Macromedia
+2019-09-01 23:59:41Z 	madshi
+2019-09-01 23:59:41Z 	MediaInfo
+2019-09-01 23:58:28Z 	Policies
+----------------------------------------
+load v.20200517
+(NTUSER.DAT) Gets load and run values from user hive
+
+load
+Software\Microsoft\Windows NT\CurrentVersion\Windows
+LastWrite Time 2019-09-02 00:19:12Z
+
+load value not found.
+run value not found.
+----------------------------------------
+logonstats v.20200517
+Gets contents of user's LogonStats key
+
+FirstLogonTime                     :  Fri Jul 07 17:03:09 2017
+FirstLogonTimeOnCurrentInstallation:  Mon Sep 02 00:19:32 2019
+----------------------------------------
+lxss v.20200511
+(NTUSER.DAT) Gets WSL config.
+
+Software\Microsoft\Windows\CurrentVersion\Lxss not found.
+----------------------------------------
+mixer v.20200517
+(NTUSER.DAT) Checks user's audio mixer settings
+
+LastWrite Time, App, Device GUID
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\Steam.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo04/00010001
+2019-10-10 18:22:14Z,\Device\HarddiskVolume4\program files\txgameassistant\ui\AndroidEmulator.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files\BioShock Remastered\Build\Final\Bioshock.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo04/00010001
+2019-09-10 03:34:58Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\63.0.3368.54789\opera.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-12-20 22:54:19Z,#,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0e/00010001
+2019-09-06 22:46:26Z,\Device\HarddiskVolume2\Program Files (x86)\Google\Chrome\Application\chrome.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0d/00010001
+2019-10-06 00:00:40Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\63.0.3368.56078\opera_gx_splash.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Tom Clancy's Rainbow Six Siege\RainbowSix.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo05/00010001
+2019-09-17 03:32:58Z,\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\Steam.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo07/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Discord\app-0.0.301\Discord.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0a/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Cuphead\Cuphead.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\PUBG\TslGame\Binaries\Win64\TslGame.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-28 19:59:33Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.305\modules\discord_hook\4b01b9db27\DiscordHookHelper.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.301\modules\discord_hook\7\DiscordHookHelper64.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Temp\is-9UMOV.tmp\setup.tmp,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo04/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Skyrim\TESV.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-11-18 02:42:21Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.305\modules\discord_hook\7f4805d0ae\DiscordHookHelper.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-12-09 18:41:58Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.305\modules\discord_hook\3f95d87a95\DiscordHookHelper64.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-10-30 20:17:56Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\63.0.3368.57388\opera_gx_splash.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\GarrysMod\hl2.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-14 06:17:07Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\63.0.3368.54979\opera.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Riot Games\League of Legends\RADS\solutions\lol_game_client_sln\releases\0.0.1.201\deploy\League of Legends.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Mozilla Firefox\firefox.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\CastleCrashers\castle.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.301\modules\discord_hook\10\DiscordHookHelper64.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\Crusader Kings II\CK2game.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-10-12 19:37:10Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0d/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Terraria\TerrariaOriginalBackup.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-28 19:59:33Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.305\modules\discord_hook\4b01b9db27\DiscordHookHelper64.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files\KMSpico\KMSELDI.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo07/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.301\modules\discord_hook\3\DiscordHookHelper.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Discord\app-0.0.300\Discord.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Dark Souls Prepare to Die Edition\DATA\DARKSOULS.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0a/00010001
+2019-09-14 06:16:48Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\63.0.3368.54979\opera_gx_splash.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\PUBG\TslGame\Binaries\Win64\TslGame.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-12-19 18:09:55Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.305\modules\discord_hook\3f95d87a95\DiscordHookHelper64.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0d/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Dark Souls Prepare to Die Edition\DATA\DARKSOULS.exe,\\?\usb#vid_054c&pid_09cc&mi_00#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\global/00010002
+2019-09-02 00:19:41Z,\Device\HarddiskVolume2\Program Files\WindowsApps\Microsoft.MinecraftUWP_1.12.28.0_x64__8wekyb3d8bbwe\Minecraft.Windows.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Google\Chrome\Application\chrome.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo07/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\PAYDAY 2\payday2_win32_release.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:19:41Z,\Device\HarddiskVolume2\Program Files (x86)\Google\Chrome\Application\chrome.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0b/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\FINAL FANTASY IV\FF4.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo04/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Discord\app-0.0.305\Discord.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,#,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo04/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Temp\is-P8PLF.tmp\setup.tmp,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,#,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo09/00010001
+2019-09-02 00:19:41Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\62.0.3331.117\opera.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\Metro 2033 Redux\metro.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-10-07 08:56:56Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.305\modules\discord_hook\0c3f233c28\DiscordHookHelper64.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\The Witcher 3\bin\x64\witcher3.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.301\modules\discord_hook\2\DiscordHookHelper.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Riot Games\League of Legends\RADS\projects\league_client\releases\0.0.0.122\deploy\LeagueClientUx.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Discord\app-0.0.304\Discord.exe,\\?\root#media#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topology/00010002
+2019-09-02 00:05:57Z,#,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0a/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\DARK SOULS III\Game\DarkSoulsIII.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-10-21 21:53:46Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\63.0.3368.56786\opera_gx_splash.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files\Unravel\Unravel.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo04/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Terraria\Terraria.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Danganronpa Trigger Happy Havoc\DR1_us.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Discord\app-0.0.302\Discord.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\GameOverlayUI.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\Skullgirls\SkullGirls.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\LNV\Stremio-4\stremio.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files\Little Nightmares Secrets of The Maw Chapter 1\Atlas\Binaries\Win64\LittleNightmares.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo04/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Dark Souls II Scholar of the First Sin\Game\DarkSoulsII.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo05/00010001
+2019-12-04 00:09:27Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.305\modules\discord_hook\a82cd292d6\DiscordHookHelper.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Black Desert Online\bin64\BlackDesert64.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\ShadowOfMordor\x64\ShadowOfMordor.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:19:41Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Discord\app-0.0.305\Discord.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo05/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Mozilla Firefox\firefox.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo04/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\GarrysMod\bin\awesomium_process.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0a/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\GUILTY GEAR Xrd -REVELATOR-\Binaries\Win32\GuiltyGearXrd.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Black Desert Online\bin64\host\CoherentUI_Host.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Temp\is-KVK2C.tmp\setup.tmp,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files\Oracle\VirtualBox\VirtualBoxVM.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0a/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\KingdomComeDeliverance\Bin\Win64\KingdomCome.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\The Witcher 3\bin\x64\witcher3.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.301\modules\discord_hook\3\DiscordHookHelper64.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Google\Chrome\Application\chrome.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Riot Games\League of Legends\RADS\solutions\lol_game_client_sln\releases\0.0.1.205\deploy\League of Legends.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-10-19 20:08:07Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\63.0.3368.56078\opera.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Dark Souls II Scholar of the First Sin\Game\DarkSoulsII.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Discord\app-0.0.305\Discord.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTAVLauncher.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\games\The Sims 4\Game\Bin\TS4_x64.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\DDDA\DDDA.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\ShadowOfMordor\x64\ShadowOfMordor.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-10 19:38:14Z,\Device\HarddiskVolume2\Program Files (x86)\Google\Chrome\Application\chrome.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0e/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files\AVAST Software\Avast\AvastUI.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-12-04 00:09:27Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.305\modules\discord_hook\a82cd292d6\DiscordHookHelper64.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Terraria\Terraria.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-21 01:04:25Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\63.0.3368.55362\opera_gx_splash.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\NieRAutomata\NieRAutomata.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo07/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\K-Lite Codec Pack\MPC-HC64\mpc-hc64.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\AeriaGames\S4League\S4Client.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,#,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo05/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\CastleCrashers\castle.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\ProgramData\BlueStacks\Client\Bluestacks.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\Steam.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.301\modules\discord_hook\2\DiscordHookHelper64.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Riot Games\League of Legends\RADS\projects\league_client\releases\0.0.0.125\deploy\LeagueClientUx.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Games\The Sims 4\Game\Bin\TS4_x64.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Move or Die\Love\win\love.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Discord\app-0.0.300\Discord.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,#,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo08/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Terraria\TerrariaOriginalBackup.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files\BlueStacks\HD-Player.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Google\Chrome\Application\chrome.exe,\\?\root#media#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topology/00010002
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Riot Games\League of Legends\RADS\projects\league_client\releases\0.0.0.122\deploy\LeagueClientUx.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Discord\app-0.0.302\Discord.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-12-01 00:15:59Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\64.0.3417.139\opera.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Eidos Interactive\Tomb Raider GOTY Edition\TombRaider.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo04/00010001
+2019-10-10 16:11:23Z,\Device\HarddiskVolume2\Program Files\WindowsApps\Microsoft.SkypeApp_14.52.138.0_x64__kzf8qxf38zg5c\SkypeApp.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files\Voicemod Desktop\VoicemodDesktop.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Riot Games\League of Legends\RADS\projects\league_client\releases\installer\deploy\LeagueClientUx.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\bin\cef\cef.win7\steamwebhelper.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Dark Souls Prepare to Die Edition\DATA\DARKSOULS.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\KingdomComeDeliverance\Bin\Win64\KingdomCome.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-09 23:33:19Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.305\modules\discord_hook\408116bcea\DiscordHookHelper64.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\games\SlimeRancher\SlimeRancher.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,#,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-05 18:44:49Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\63.0.3368.71\opera.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Riot Games\League of Legends\RADS\projects\league_client\releases\0.0.0.123\deploy\LeagueClientUx.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\DARK SOULS III\Game\DarkSoulsIII.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Origin\Origin.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe,\\?\usb#vid_054c&pid_09cc&mi_00#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\global/00010002
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Tom Clancy's Rainbow Six Siege\RainbowSix.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,#,\\?\usb#vid_054c&pid_09cc&mi_00#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\global/00010002
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Windows\System32\osk.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Final Fantasy III\FF3_Win32.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo04/00010001
+2019-09-02 00:19:41Z,\Device\HarddiskVolume4\games\Overcooked\Overcooked.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-28 17:50:37Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\63.0.3368.55666\opera.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Terraria\Terraria.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo05/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files\Voicemod Desktop\VoicemodDesktop.exe,\\?\root#media#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topology/00010002
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\NieRAutomata\NieRAutomata.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Temp\is-EKKRN.tmp\setup.tmp,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\Skullgirls\SkullGirls.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Mozilla Firefox\firefox.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo07/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Riot Games\League of Legends\RADS\projects\league_client\releases\0.0.0.124\deploy\LeagueClientUx.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0a/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Discord\app-0.0.304\Discord.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-10-30 20:18:00Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\63.0.3368.57388\opera.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-11-18 02:42:20Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.305\modules\discord_hook\7f4805d0ae\DiscordHookHelper64.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Bethesda Softworks\The Elder Scrolls V Skyrim - Legendary Edition\TESV.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo04/00010001
+2019-12-09 18:41:59Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.305\modules\discord_hook\3f95d87a95\DiscordHookHelper.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Mozilla Firefox\plugin-container.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:19:41Z,\Device\HarddiskVolume2\Program Files\Java\jre-10.0.2\bin\javaw.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-10-21 20:20:26Z,\Device\HarddiskVolume2\Program Files (x86)\Google\Chrome\Application\chrome.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0c/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\GUILTY GEAR Xrd -REVELATOR-\Binaries\Win32\GuiltyGearXrd.exe,\\?\usb#vid_054c&pid_09cc&mi_00#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\global/00010002
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Black Desert Online\bin64\BlackDesert64.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Temp\is-94LIL.tmp\setup.tmp,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo04/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\Devil May Cry 5\DevilMayCry5.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,#,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\DesktopAnimated\Skyrim Animated Wallpaper\Skyrim.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Temp\is-O7J82.tmp\setup.tmp,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Mozilla Firefox\firefox.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-09 23:33:20Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.305\modules\discord_hook\408116bcea\DiscordHookHelper.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTA5.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Riot Games\League of Legends\RADS\projects\league_client\releases\0.0.0.125\deploy\LeagueClientUx.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-10-10 04:48:59Z,\Device\HarddiskVolume4\games\LegoBatman\Game.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files\No Mans Sky\Binaries\NMS.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo04/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Riot Games\League of Legends\RADS\solutions\lol_game_client_sln\releases\0.0.1.201\deploy\League of Legends.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Danganronpa Trigger Happy Havoc\DR1_us.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-05 18:44:27Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\63.0.3368.71\opera_gx_splash.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\CdRom0\demo32.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files\AVAST Software\Avast\AvastUI.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0a/00010001
+2019-11-16 06:03:14Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\63.0.3368.58152\opera.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Skyrim\TESV.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Riot Games\League of Legends\RADS\projects\league_client\releases\0.0.0.129\deploy\LeagueClientUx.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Discord\app-0.0.301\Discord.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\Metro 2033 Redux\metro.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-10-06 01:12:51Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\Steam.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0e/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V\GTAVLauncher.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:19:41Z,\Device\HarddiskVolume2\Games\Jump Force\JUMP_FORCE\Binaries\Win64\JUMP_FORCE-Win64-Shipping.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\GarrysMod\hl2.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-10-21 21:54:00Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\63.0.3368.56786\opera.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-11-16 06:03:06Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\63.0.3368.58152\opera_gx_splash.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\Steam.exe,\\?\usb#vid_054c&pid_09cc&mi_00#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\global/00010002
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Discord\app-0.0.304\Discord.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo05/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files\Battlefield 4\bf4.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo04/00010001
+2019-09-02 00:19:41Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\62.0.3331.132\opera.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\games\Fortnite\FortniteGame\Binaries\Win64\FortniteClient-Win64-Shipping.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\Users\Julio\Downloads\Emulador N3DS\citra-qt.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\DARK SOULS III\Game\DarkSoulsIII.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:19:41Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.305\modules\discord_hook\d0ef55ab8d\DiscordHookHelper64.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-10 03:34:39Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\63.0.3368.54789\opera_gx_splash.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\Crusader Kings II\CK2game.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-28 17:50:18Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\63.0.3368.55666\opera_gx_splash.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Black Desert Online\bin64\host\CoherentUI_Host.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-11-21 05:42:27Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\GarrysMod\hl2.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0d/00010001
+2019-09-02 00:19:41Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\62.0.3331.132\opera_gx_splash.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\games\Fortnite\FortniteGame\Binaries\Win64\FortniteClient-Win64-Shipping.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo05/00010001
+2019-09-05 17:24:43Z,\Device\HarddiskVolume2\Program Files (x86)\World of Warcraft\_classic_\Wow.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\Users\Julio\Desktop\CapcoMCpS2\fb 0ne-four 0.7.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0a/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\LNV\Stremio-4\stremio.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo09/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\Steam.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo05/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Discord\app-0.0.304\Discord.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-10-17 08:39:58Z,\Device\HarddiskVolume4\games\LegoBatman3\LEGOBatman3.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\The Binding of Isaac Rebirth\isaac-ng.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo04/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\games\Apex\r5apex.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\bin\cef\cef.win7\steamwebhelper.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Discord\app-0.0.301\Discord.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo05/00010001
+2019-09-06 22:42:57Z,\Device\HarddiskVolume2\Program Files (x86)\World of Warcraft\_retail_\Wow.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0d/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\GUILTY GEAR Xrd -REVELATOR-\Binaries\Win32\GuiltyGearXrd.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0a/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Google\Chrome\Application\chrome.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Dark Souls Prepare to Die Edition\DATA\DARKSOULS.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo05/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\Steam.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\Devil May Cry 5\DevilMayCry5.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Google\Chrome\Application\chrome.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0a/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\The Binding Of Isaac\Isaac.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\DDDA\DDDA.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:19:41Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\62.0.3331.117\opera_gx_splash.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Temp\is-KFIHT.tmp\setup.tmp,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,#,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo07/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Bethesda Softworks\The Elder Scrolls V Skyrim - Legendary Edition\TESV.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Move or Die\Love\win\love.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.305\modules\discord_hook\6eb9fee9cc\DiscordHookHelper64.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Discord\app-0.0.301\Discord.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\DARK SOULS III\Game\DarkSoulsIII.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-07 17:30:56Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Discord\app-0.0.305\Discord.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0d/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\SteamLibrary\steamapps\common\GUILTY GEAR Xrd -REVELATOR-\Binaries\Win32\GuiltyGearXrd.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.305\modules\discord_hook\6eb9fee9cc\DiscordHookHelper.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy\SearchUI.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\AeriaGames\S4League\S4Client.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\PAYDAY 2\payday2_win32_release.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-11-28 20:04:45Z,\Device\HarddiskVolume2\Program Files (x86)\Battle.net\Battle.net.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Riot Games\League of Legends\RADS\projects\league_client\releases\0.0.0.129\deploy\LeagueClientUx.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Tom Clancy's Rainbow Six Siege\RainbowSix.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-12-19 16:30:10Z,#,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0d/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Windows\System32\rundll32.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0a/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Dark Souls Prepare to Die Edition\DATA\DARKSOULS.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-09-21 01:04:39Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\63.0.3368.55362\opera.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Dark Souls II Scholar of the First Sin\Game\DarkSoulsII.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-10-19 20:08:07Z,\Device\HarddiskVolume2\Program Files (x86)\World of Warcraft\_retail_\Wow.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-10 19:38:10Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Discord\app-0.0.305\Discord.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0e/00010001
+2019-10-07 08:56:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.305\modules\discord_hook\0c3f233c28\DiscordHookHelper.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume4\games\Fortnite\FortniteGame\Binaries\Win64\FortniteClient-Win64-Shipping.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0a/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files\Disney Infinity 1.0 Gold Edition\DisneyInfinity1.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo04/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.301\modules\discord_hook\7\DiscordHookHelper.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:19:41Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.305\modules\discord_hook\d0ef55ab8d\DiscordHookHelper.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\Steam.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0a/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\TeamViewer\TeamViewer.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\Cuphead\Cuphead.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo06/00010001
+2019-12-01 00:15:54Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Programs\Opera GX\64.0.3417.139\opera_gx_splash.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\steamapps\common\NieRAutomata\NieRAutomata.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:19:41Z,\Device\HarddiskVolume2\Games\Jump Force\JUMP_FORCE\Binaries\Win64\JUMP_FORCE-Win64-Shipping.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.301\modules\discord_hook\10\DiscordHookHelper.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Temp\is-36OR0.tmp\setup.tmp,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo04/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Windows\System32\sdiagnhost.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0a/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Mozilla Firefox\firefox.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0a/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\GameOverlayUI.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-14 19:46:35Z,\Device\HarddiskVolume2\Program Files (x86)\Steam\Steam.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0d/00010001
+2019-12-19 18:09:54Z,\Device\HarddiskVolume2\Users\Julio\AppData\Roaming\discord\0.0.305\modules\discord_hook\3f95d87a95\DiscordHookHelper.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo0d/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Users\Julio\AppData\Local\Discord\app-0.0.301\Discord.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo09/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files\Realtek\Audio\HDA\RtkNGUI64.exe,\\?\hdaudio#func_01&ven_10ec&dev_0887&subsys_1462fa70&rev_1003#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\singlelineouttopo/00010001
+2019-09-02 00:05:57Z,\Device\HarddiskVolume2\Program Files (x86)\Google\Chrome\Application\chrome.exe,\\?\hdaudio#func_01&ven_10de&dev_0080&subsys_196e11c1&rev_1001#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\topo09/00010001
+----------------------------------------
+mmc v.20200517
+(NTUSER.DAT) Get contents of user's MMC\Recent File List key
+
+MMC - Recent File List
+Software\Microsoft\Microsoft Management Console\Recent File List
+LastWrite Time 2019-12-26 02:55:46Z
+  File1 -> C:\WINDOWS\system32\diskmgmt.msc
+----------------------------------------
+mmo v.20200517
+(NTUSER.DAT) Checks NTUSER for Multimedia\Other values [malware]
+
+Software\Microsoft\Multimedia\Other not found.
+Software\Microsoft\CTF\LangBarAddIn not found.
+----------------------------------------
+mndmru v.20200517
+(NTUSER.DAT) Get contents of user's Map Network Drive MRU
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\Map Network Drive MRU not found.
+----------------------------------------
+mp2 v.20200526
+(NTUSER.DAT) Gets user's MountPoints2 key contents
+
+MountPoints2
+Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2
+LastWrite Time 2019-09-05 02:32:15Z
+
+Remote Drives:
+
+Volumes:
+2019-09-30 06:57:08Z
+  {b9660d47-cd14-11e9-9b36-4ccc6af9ff00}
+2019-09-05 02:32:15Z
+  {547ffddd-0000-0000-0000-10127a000000}
+  {547ffddd-0000-0000-0000-501f00000000}
+
+Drives:
+2019-09-02 00:19:32Z - CPC
+
+Unique MAC Addresses:
+10:12:7A:00:00:00
+50:1F:00:00:00:00
+4C:CC:6A:F9:FF:00
+
+Analysis Tip: Correlate the Volume entries to those found in the MountedDevices
+entries that begin with "\??\Volume".
+----------------------------------------
+mpmru v.20200517
+(NTUSER.DAT) Gets user's Media Player RecentFileList values
+
+Software\Microsoft\MediaPlayer\Player\RecentFileList not found.
+----------------------------------------
+msoffice v.20200518
+
+
+
+
+
+
+Access - File MRU
+----------------------------------------
+muicache v.20200525
+(NTUSER.DAT,USRCLASS.DAT) Gets EXEs from user's MUICache key
+
+Software\Microsoft\Windows\ShellNoRoam\MUICache not found.
+
+Local Settings\Software\Microsoft\Windows\Shell\MUICache not found.
+----------------------------------------
+nation v.20200517
+(ntuser.dat) Gets region information from HKCU
+
+Nation Information Check
+Control Panel\International\Geo
+LastWrite time: 2019-09-01 23:58:28Z
+
+The Region value is : 166
+The Country Is: Mexico
+For more information please visit the link below:
+https://msdn.microsoft.com/en-us/library/aa723531.aspx
+
+----------------------------------------
+oisc v.20091125
+(NTUSER.DAT) Gets contents of user's Office Internet Server Cache
+
+Office Version: 14.0
+Software\Microsoft\Office\14.0\Common\Internet\Server Cache not found.
+----------------------------------------
+onedrive v.20200515
+(NTUSER.DAT) Gets contents of user's OneDrive key
+
+Software\Microsoft\OneDrive
+UserFolder                : C:\Users\Julio\OneDrive
+ClientFirstSignInTimestamp: 2019-07-10 14:40:14Z
+NextOneRmUpdateTime       : 2019-12-26 08:17:30Z
+NextMigrationScan         : 2019-12-27 04:27:00Z
+----------------------------------------
+OSVersion
+Software\Microsoft
+LastWrite Time 2019-12-26 03:17:36Z
+
+OSVersion value not found.
+----------------------------------------
+outlookhomepage v.20201002
+(NTUSER.DAT, Software) Retrieve values set to attack Outlook WebView Homepage
+
+Looking for webview homepage modifications. If this value is pointing
+to a URL outside the corporate domain it may be a malicious site.
+
+Looking for key values associated with security.
+If you see:
+[Example]  EnableRoamingFolderHomepages : 1
+[Example]  NonDefaultStoreScript : 1
+[Example]  EnableUnsafeClientMailRules : 1
+You may have a security vulnerability that allows attackers to hijack the URL
+
+----------------------------------------
+pendinggpos v.20200427
+NTUSER.DAT - Gets contents of user's PendingGPOs key
+
+Software\Microsoft\IEAK\GroupPolicy\PendingGPOs not found.
+----------------------------------------
+profiler v.20200525
+(NTUSER.DAT, System) Environment profiler information
+
+Environment
+LastWrite Time 2019-11-30 17:03:17Z
+
+Path -> %USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;C:\Users\Julio\AppData\Local\Programs\Microsoft VS Code\bin
+TEMP -> %USERPROFILE%\AppData\Local\Temp
+TMP -> %USERPROFILE%\AppData\Local\Temp
+OneDrive -> C:\Users\Julio\OneDrive
+OneDriveConsumer -> C:\Users\Julio\OneDrive
+
+----------------------------------------
+pslogging v.20200515
+(NTUSER.DAT, Software) Extracts PowerShell logging settings
+
+Software\Policies\Microsoft\Windows\PowerShell not found.
+Policies\Microsoft\Windows\PowerShell not found.
+----------------------------------------
+----------------------------------------
+putty v.20200515
+(NTUSER.DAT) Extracts the saved SshHostKeys for PuTTY.
+
+Software\SimonTatham\PuTTY\SshHostKeys not found.
+
+----------------------------------------
+recentapps v.20200515
+- Gets contents of user's RecentApps key
+
+AppId           : d:\Users\Julio\Downloads\Nueva carpeta (6)\AddonPeds Editor.exe
+LastAccessedTime: 2017-12-14 05:30:53Z
+LaunchCount     : 2
+
+AppId           : OperaSoftware.OperaWebBrowser.1499519472
+LastAccessedTime: 2018-02-12 08:39:01Z
+LaunchCount     : 1
+
+AppId           : {6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office16\MSPUB.EXE
+LastAccessedTime: 2018-04-24 03:09:20Z
+LaunchCount     : 2
+::RecentItems::
+  Path           : D:\Users\Julio\Documents\TripticoFisicaBateria.pub
+  LastAccessedTime: 2018-04-24 04:09:19Z
+
+
+AppId           : d:\Users\Julio\Downloads\Nueva carpeta (8)\s4league_us_downloader.exe
+LastAccessedTime: 2018-03-24 11:11:31Z
+LaunchCount     : 1
+
+AppId           : C:\AeriaGames\S4League\patcher_s4.exe
+LastAccessedTime: 2018-04-04 09:30:46Z
+LaunchCount     : 1
+
+AppId           : {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Steam\Steam.exe
+LastAccessedTime: 2018-05-09 01:54:36Z
+LaunchCount     : 3
+
+AppId           : {6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office14\MSACCESS.EXE
+LastAccessedTime: 2018-03-21 08:34:54Z
+LaunchCount     : 2
+::RecentItems::
+  Path           : D:\Users\Julio\Downloads\Nueva carpeta (8)\Integradora_ConsultorioMedico.accdb
+  LastAccessedTime: 2018-03-21 08:34:56Z
+
+
+AppId           : E7CF176E110C211B
+LastAccessedTime: 2018-04-28 02:48:57Z
+LaunchCount     : 1
+::RecentItems::
+  Path           : http://www3.pny.com/registration/index.aspx
+  LastAccessedTime: 2017-07-08 12:34:34Z
+
+  Path           : D:\Users\Julio\Downloads\manual.pdf
+  LastAccessedTime: 2017-07-08 12:26:06Z
+
+  Path           : D:\Users\Julio\Downloads\Nueva carpeta (6)\Read Me.html
+  LastAccessedTime: 2017-12-14 05:26:23Z
+
+  Path           : https://support.microsoft.com/help/4015386
+  LastAccessedTime: 2018-01-24 23:53:26Z
+
+  Path           : http://forums.terraria.org/index.php?threads/1-3-tmodloader-a-modding-api.23726/
+  LastAccessedTime: 2018-04-01 20:31:58Z
+
+
+AppId           : Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe!Microsoft.MicrosoftOfficeHub
+LastAccessedTime: 2018-01-31 18:21:40Z
+LaunchCount     : 1
+
+AppId           : {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\cmd.exe
+LastAccessedTime: 2017-12-28 01:21:20Z
+LaunchCount     : 1
+
+AppId           : {6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office16\POWERPNT.EXE
+LastAccessedTime: 2018-05-03 15:58:29Z
+LaunchCount     : 1
+::RecentItems::
+  Path           : D:\Users\Julio\Documents\Filosofos.pptx
+  LastAccessedTime: 2018-03-19 06:33:53Z
+
+  Path           : D:\Users\Julio\Downloads\attachment.pptx
+  LastAccessedTime: 2018-03-22 17:43:44Z
+
+  Path           : D:\Users\Julio\Downloads\Untitled presentation.pptx
+  LastAccessedTime: 2018-04-24 16:14:34Z
+
+  Path           : E:\k\sadfg\Lab_Etapa3.pptx
+  LastAccessedTime: 2018-04-24 16:28:19Z
+
+  Path           : E:\Etapa 2\Presentaicon-etapa-2.pptx
+  LastAccessedTime: 2018-03-02 18:19:18Z
+
+  Path           : d:\Users\Julio\Downloads\Nueva carpeta (8)\Integradora-Filo (1).pptx
+  LastAccessedTime: 2018-03-22 17:06:19Z
+
+  Path           : d:\Users\Julio\Downloads\Nueva carpeta (8)\Integradora-Filo.pptx
+  LastAccessedTime: 2018-03-22 08:32:31Z
+
+  Path           : D:\Users\Julio\Downloads\Mecatrónica-Fime.pptx
+  LastAccessedTime: 2018-04-07 03:28:59Z
+
+  Path           : D:\Users\Julio\Downloads\Integradora-Filo.pptx
+  LastAccessedTime: 2018-03-19 04:40:18Z
+
+  Path           : D:\Users\Julio\Downloads\Integradora-Filo (1).pptx
+  LastAccessedTime: 2018-03-19 06:34:17Z
+
+
+AppId           : d:\Users\Julio\Downloads\ovisetup.exe
+LastAccessedTime: 2017-12-03 00:35:37Z
+LaunchCount     : 1
+
+AppId           : D:\Users\Julio\Downloads\tModLodear\Terraria.exe
+LastAccessedTime: 2018-01-26 03:08:28Z
+LaunchCount     : 7
+
+AppId           : {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\control.exe
+LastAccessedTime: 2018-02-23 17:39:35Z
+LaunchCount     : 1
+
+AppId           : com.squirrel.Discord.Discord
+LastAccessedTime: 2018-03-18 22:14:19Z
+LaunchCount     : 1
+
+AppId           : {6D809377-6AF0-444B-8957-A3773F02200E}\7-Zip\7z.exe
+LastAccessedTime: 2017-10-08 23:44:21Z
+LaunchCount     : 5
+::RecentItems::
+  Path           : D:\Users\Julio\Documents\Backup\Cynder preset-75310-1-0.7z
+  LastAccessedTime: 2017-07-12 19:27:01Z
+
+  Path           : D:\Users\Julio\Downloads\TES5Edit 3.2-25859-3-2.7z
+  LastAccessedTime: 2017-07-12 20:12:44Z
+
+  Path           : D:\Users\Julio\Downloads\Somber luce lucida-54362-2-03-264.7z
+  LastAccessedTime: 2017-10-08 23:44:21Z
+
+  Path           : D:\Users\Julio\Downloads\Nueva carpeta\Mod Organizer v1_3_11-1334-1-3-11.7z
+  LastAccessedTime: 2017-10-07 19:26:42Z
+
+  Path           : D:\Users\Julio\Downloads\Mod Organizer v1_3_11-1334-1-3-11.7z
+  LastAccessedTime: 2017-10-02 04:36:27Z
+
+  Path           : D:\Users\Julio\Downloads\SexLabFramework_v162_FULL.7z
+  LastAccessedTime: 2017-10-08 01:16:43Z
+
+  Path           : D:\Users\Julio\Downloads\Nueva carpeta\FNIS Behavior V6_3-11811-V6-3.7z
+  LastAccessedTime: 2017-10-07 20:04:55Z
+
+
+AppId           : d:\Users\Julio\Downloads\10.2.0\KMSpico.v10.2.0.FINAL-heldigard\KMSpico Install\KMSpico_setup.exe
+LastAccessedTime: 2017-12-28 01:25:32Z
+LaunchCount     : 1
+
+AppId           : Microsoft.Windows.Explorer
+LastAccessedTime: 2018-04-30 04:13:41Z
+LaunchCount     : 6
+
+AppId           : d:\Users\Julio\Downloads\Wrye Bash 307 beta1 - Installer-1840-307.exe
+LastAccessedTime: 2017-10-13 06:31:21Z
+LaunchCount     : 1
+
+AppId           : C:\Users\Julio\AppData\Local\Temp\Temp1_Save cleaner v. 2.06 beta-52363-2-06.zip\SaveTool.exe
+LastAccessedTime: 2017-10-10 05:45:38Z
+LaunchCount     : 1
+
+AppId           : {6D809377-6AF0-444B-8957-A3773F02200E}\KMSpico\KMSELDI.exe
+LastAccessedTime: 2017-12-28 01:26:18Z
+LaunchCount     : 1
+
+AppId           : d:\Users\Julio\Downloads\Nueva carpeta (8)\Nueva carpeta\ModOrganizer\ModOrganizer.exe
+LastAccessedTime: 2018-04-07 03:13:43Z
+LaunchCount     : 2
+
+AppId           : {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\msdt.exe
+LastAccessedTime: 2018-05-06 08:43:50Z
+LaunchCount     : 1
+
+AppId           : {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+LastAccessedTime: 2018-04-30 04:13:46Z
+LaunchCount     : 1
+::RecentItems::
+  Path           : D:\Users\Julio\Downloads\Puentes_3.pdf
+  LastAccessedTime: 2017-10-13 16:29:36Z
+
+  Path           : D:\Users\Julio\Desktop\SOL_21.5x28_Cancelacion_poliza_seguros_salud_25092015_tcm1004-463822.pdf
+  LastAccessedTime: 2018-01-25 17:40:02Z
+
+  Path           : E:\PORTAFOLIO 4 SEM. 2018 (1).pdf
+  LastAccessedTime: 2018-03-02 18:09:40Z
+
+  Path           : D:\Users\Julio\Downloads\JCBH-433-NA.pdf
+  LastAccessedTime: 2018-02-20 04:18:28Z
+
+  Path           : D:\Users\Julio\Downloads\IntegrativeActivity-Global2017PDF.pdf
+  LastAccessedTime: 2017-11-16 18:51:07Z
+
+  Path           : D:\Users\Julio\Downloads\01_ACNM_IA3.pdf
+  LastAccessedTime: 2018-04-30 04:13:46Z
+
+  Path           : D:\Users\Julio\Downloads\Cuaderno estudiante literatura 2017 (1) (1).pdf
+  LastAccessedTime: 2017-11-17 17:17:57Z
+
+  Path           : D:\Users\Julio\Downloads\portafolio 3 semestre 1.pdf
+  LastAccessedTime: 2017-11-16 02:09:22Z
+
+  Path           : E:\k\Etapa 3\NACIONALES-ACT 5.pdf
+  LastAccessedTime: 2018-04-24 16:29:04Z
+
+  Path           : D:\Users\Julio\Pictures\ESCANEOS DE TIA ROSA\ACT TIO JULIO.pdf
+  LastAccessedTime: 2018-01-24 23:47:01Z
+
+
+AppId           : {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\mspaint.exe
+LastAccessedTime: 2018-02-15 07:13:59Z
+LaunchCount     : 2
+::RecentItems::
+  Path           : D:\Users\Julio\Pictures\2.png
+  LastAccessedTime: 2017-11-17 03:06:35Z
+
+  Path           : D:\Users\Julio\Pictures\1.png
+  LastAccessedTime: 2017-11-17 03:05:34Z
+
+  Path           : D:\Users\Julio\Pictures\3.png
+  LastAccessedTime: 2017-11-17 03:07:01Z
+
+  Path           : D:\Users\Julio\Pictures\Asheitems.png
+  LastAccessedTime: 2018-02-02 08:42:52Z
+
+  Path           : D:\Users\Julio\Pictures\4.png
+  LastAccessedTime: 2017-11-17 03:07:32Z
+
+  Path           : D:\Users\Julio\Downloads\filename-1-1.jpg
+  LastAccessedTime: 2018-02-15 07:14:08Z
+
+
+AppId           : {6D809377-6AF0-444B-8957-A3773F02200E}\CCleaner\CCleaner64.exe
+LastAccessedTime: 2017-12-27 23:54:25Z
+LaunchCount     : 1
+
+AppId           : {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Steam\steamapps\common\Terraria\TerrariaOriginalBackup.exe
+LastAccessedTime: 2018-03-28 21:16:48Z
+LaunchCount     : 1
+
+AppId           : Chrome
+LastAccessedTime: 2018-05-08 22:22:22Z
+LaunchCount     : 2
+::RecentItems::
+  Path           : D:\Users\Julio\Downloads\PIA-JCBH.pdf
+  LastAccessedTime: 2017-11-20 06:02:20Z
+
+  Path           : D:\Users\Julio\Documents\JCBH_1864290.pdf
+  LastAccessedTime: 2018-04-28 20:18:32Z
+
+  Path           : D:\Users\Julio\Desktop\SOL_21.5x28_Cancelacion_poliza_seguros_salud_25092015_tcm1004-463822.pdf
+  LastAccessedTime: 2018-01-24 23:28:16Z
+
+  Path           : D:\Users\Julio\Downloads\JCBH-04.pdf
+  LastAccessedTime: 2018-02-17 05:22:36Z
+
+  Path           : D:\Users\Julio\Documents\Bonilla Hernández.pdf
+  LastAccessedTime: 2018-04-28 04:55:43Z
+
+  Path           : D:\Users\Julio\Downloads\JCBH-433-NA.pdf
+  LastAccessedTime: 2018-02-20 04:19:25Z
+
+  Path           : D:\Users\Julio\Downloads\INT2-JCBH.pdf
+  LastAccessedTime: 2018-03-20 17:21:30Z
+
+  Path           : D:\Users\Julio\Downloads\BHJC43304.pdf
+  LastAccessedTime: 2018-02-18 03:00:24Z
+
+  Path           : D:\Users\Julio\Downloads\JCBH-433-WORKSHEET.pdf
+  LastAccessedTime: 2018-02-21 03:37:35Z
+
+  Path           : D:\Users\Julio\Documents\04-JCBH-IA3.pdf
+  LastAccessedTime: 2018-04-30 04:54:01Z
+
+
+AppId           : {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA GeForce Experience.exe
+LastAccessedTime: 2018-02-27 05:36:18Z
+LaunchCount     : 1
+
+AppId           : {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Steam\steamapps\common\Terraria\Terraria.exe
+LastAccessedTime: 2018-04-01 21:36:01Z
+LaunchCount     : 3
+
+AppId           : C:\Dev-Cpp\devcpp.exe
+LastAccessedTime: 2018-04-06 07:17:32Z
+LaunchCount     : 1
+
+AppId           : d:\Users\Julio\Downloads\Nueva carpeta (8)\devcpp-4.9.9.2_setup.exe
+LastAccessedTime: 2018-04-06 07:17:10Z
+LaunchCount     : 1
+
+AppId           : d:\Users\Julio\Downloads\Emulador N3DS\citra-qt.exe
+LastAccessedTime: 2018-03-04 01:41:28Z
+LaunchCount     : 3
+
+AppId           : C:\Games\Nexus Mod Manager\DarkSouls\Mods\VirtualInstall\1000001612\DSCM.exe
+LastAccessedTime: 2018-02-25 21:53:17Z
+LaunchCount     : 2
+
+AppId           : d:\Users\Julio\Downloads\Nueva carpeta\ModOrganizer\ModOrganizer.exe
+LastAccessedTime: 2018-01-19 17:46:52Z
+LaunchCount     : 1
+
+AppId           : {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Steam\steamapps\common\Terraria\Terraria_v1.3.5.3.exe
+LastAccessedTime: 2018-02-05 03:09:58Z
+LaunchCount     : 2
+
+AppId           : C:\AeriaGames\S4 League\unins000.exe
+LastAccessedTime: 2018-03-24 11:11:02Z
+LaunchCount     : 1
+
+AppId           : Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge
+LastAccessedTime: 2018-01-26 03:23:34Z
+LaunchCount     : 1
+::RecentItems::
+  Path           : microsoft-edge:https://www.bing.com/images/search?q=Cañón+de+ranura&FORM=EMSDS0
+  LastAccessedTime: 2017-11-23 01:54:58Z
+
+  Path           : microsoft-edge:https://www.msn.com/spartan/dhpwinfre?contentId=wwe.update.mmx.paint3d.tips.2017.10.b&tcContentId=454332a5bb01484d886e18fbc32fdb4f&tcContentPath=//item[0]&OCID=ems.display.welcomeexperience&CCID=
+  LastAccessedTime: 2017-11-02 01:50:24Z
+
+
+AppId           : steam://rungameid/578080
+LastAccessedTime: 2018-03-28 01:05:28Z
+LaunchCount     : 1
+
+AppId           : steam://rungameid/520440
+LastAccessedTime: 2018-01-04 00:30:53Z
+LaunchCount     : 1
+
+AppId           : d:\Users\Julio\Downloads\ccsetup538.exe
+LastAccessedTime: 2017-12-28 00:03:43Z
+LaunchCount     : 1
+
+AppId           : C:\Users\Julio\AppData\Local\New Technology Studio\Apps\OpenIV\OpenIV.exe
+LastAccessedTime: 2017-12-14 06:10:03Z
+LaunchCount     : 4
+
+AppId           : {6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office16\WINWORD.EXE
+LastAccessedTime: 2018-05-03 14:54:27Z
+LaunchCount     : 5
+::RecentItems::
+  Path           : D:\Users\Julio\Documents\Chernobyl nuclear catastrophe cause a great cost to Ukraine and even to other countries.docx
+  LastAccessedTime: 2018-05-03 16:28:01Z
+
+  Path           : D:\Users\Julio\Documents\Bonilla Hernández.rtf
+  LastAccessedTime: 2018-04-28 05:23:40Z
+
+  Path           : D:\Users\Julio\Documents\Bonilla Hernández.docx
+  LastAccessedTime: 2018-04-28 05:23:40Z
+
+  Path           : D:\Users\Julio\Documents\Bonilla Hernández.pdf
+  LastAccessedTime: 2018-04-28 04:55:18Z
+
+  Path           : D:\Users\Julio\Downloads\INTEGRADORA_E3_YHCA_07.docx
+  LastAccessedTime: 2018-04-28 20:06:11Z
+
+  Path           : D:\Users\Julio\Documents\04-JCBH-IA3.docx
+  LastAccessedTime: 2018-04-30 04:53:24Z
+
+  Path           : D:\Users\Julio\Documents\04-JCBH-IA3.pdf
+  LastAccessedTime: 2018-04-30 04:53:36Z
+
+  Path           : D:\Users\Julio\Downloads\Caca de las leyes Chernobyl.docx
+  LastAccessedTime: 2018-05-03 16:27:53Z
+
+  Path           : D:\Users\Julio\Downloads\Chapter-1.docx
+  LastAccessedTime: 2018-05-03 16:54:15Z
+
+  Path           : D:\Users\Julio\Documents\JCBH-04-1864290.pdf
+  LastAccessedTime: 2018-04-28 20:17:37Z
+
+
+AppId           : {6D809377-6AF0-444B-8957-A3773F02200E}\Nexus Mod Manager\NexusClient.exe
+LastAccessedTime: 2018-01-21 15:48:49Z
+LaunchCount     : 1
+
+AppId           : d:\Users\Julio\Downloads\AccessRuntime_X64.exe
+LastAccessedTime: 2018-03-21 05:22:07Z
+LaunchCount     : 1
+
+AppId           : C:\Riot Games\League of Legends\LeagueClient.exe
+LastAccessedTime: 2018-03-10 03:05:13Z
+LaunchCount     : 1
+
+AppId           : {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Ubisoft\Ubisoft Game Launcher\Uplay.exe
+LastAccessedTime: 2018-03-08 03:45:42Z
+LaunchCount     : 1
+
+AppId           : {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\NOTEPAD.EXE
+LastAccessedTime: 2018-04-28 04:50:15Z
+LaunchCount     : 1
+::RecentItems::
+  Path           : D:\Users\Julio\Downloads\Nueva carpeta (6)\Readme.txt
+  LastAccessedTime: 2017-12-14 05:26:09Z
+
+  Path           : D:\Users\Julio\Downloads\Nueva carpeta (6)\Pick One!.txt
+  LastAccessedTime: 2017-12-14 05:12:19Z
+
+  Path           : D:\Users\Julio\Downloads\accounts sale.txt
+  LastAccessedTime: 2018-04-28 04:50:15Z
+
+  Path           : D:\Users\Julio\Desktop\Nuevo documento de texto.txt
+  LastAccessedTime: 2018-01-23 17:24:54Z
+
+  Path           : D:\Users\Julio\Desktop\1.txt
+  LastAccessedTime: 2017-12-14 06:35:53Z
+
+  Path           : D:\Users\Julio\Downloads\Nueva carpeta (7)\Readme.txt
+  LastAccessedTime: 2017-12-14 05:46:26Z
+
+  Path           : D:\Users\Julio\Downloads\Nueva carpeta (6)\Addon Method[Lykan]\ReadME!.txt
+  LastAccessedTime: 2018-01-01 04:12:09Z
+
+  Path           : D:\Users\Julio\Desktop\Nuevo documento de texto (2).txt
+  LastAccessedTime: 2018-03-04 01:37:50Z
+
+  Path           : D:\Users\Julio\Downloads\TES5Edit\TES5Edit_log.txt
+  LastAccessedTime: 2018-03-04 01:30:55Z
+
+  Path           : D:\Users\Julio\Documents\Backup\Nuevo documento de texto.txt
+  LastAccessedTime: 2018-03-28 07:14:08Z
+
+
+AppId           : {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Steam\steamapps\common\Terraria\tModLoaderServer.exe
+LastAccessedTime: 2018-01-26 03:03:37Z
+LaunchCount     : 1
+
+AppId           : {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe
+LastAccessedTime: 2018-05-07 23:09:45Z
+LaunchCount     : 1
+
+----------------------------------------
+recentdocs v.20200427
+(NTUSER.DAT) Gets contents of user's RecentDocs key
+
+RecentDocs
+**All values printed in MRUList\MRUListEx order.
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
+LastWrite Time: 2019-12-23 05:00:57Z
+  22 = Internet
+  117 = network-ethernet
+  46 = kglcheck/
+  0 = network-ethernet
+  112 = ::{6C8EEC18-8D75-41B2-A177-8831D59D2D50}
+  4 = Backup
+  3 = Nuevo documento de texto.txt
+  131 = elvui-11.26.zip
+  83 = ElvUI_SLE-v3.62.zip
+  109 = WeakAuras-2.15.5.zip
+  143 = DBM-Core-8.2.30.zip
+  15 = facebook
+  91 = Archivos-Bienes-Raices.zip
+  54 = index.html
+  1 = Descargas
+  2 = Documentacion TELE.docx
+  17 = Downloads
+  116 = DBM-SpellTimers-v4-r118.zip
+  41 = DBM-Party-BC-r12 (1).zip
+  129 = DBM-Party-BC-r12.zip
+  57 = DBM-Core-8.2.29.zip
+  123 = WorldQuestTracker-v7.1.5.119-release.zip
+  38 = 1.0 Network Fundamentals Edit.pptx
+  55 = Tarea 3 Telecomunicaciones.docx
+  40 = Tarea 2 Telecomunicaciones.docx
+  11 = Tarea 1 Telecomunicaciones.docx
+  35 = ROUTING & ROUTED (1).pptx
+  6 = Películas
+  24 = Spider-man into the Spiderverse.mp4
+  14 = PIA_SISTOP.docx
+  33 = Practica8Telnet2-1864290.docx
+  85 = PIA- Programa de Seguridad.pptx
+  80 = Presentación1 (2).pptx
+  18 = PIA- Programa de Seguridad.docx
+  8 = Sears.docx
+  42 = Sears (1).docx
+  106 = Presentación1 (1).pptx
+  53 = 1864290_Bonilla_Julio_PIA-Presentacion.pptx
+  61 = PIA  Sistemas Operativos.pptx
+  30 = 1864290_Bonilla_Julio_Evid-5.docx
+  27 = Música
+  60 = fondo-elegante-presentaciones-negocios-tecnologia_28976-311.jpg
+  29 = 1864290_Bonilla_Julio_PIA.docx
+  12 = PIA_programa_Seguridad.pdf
+  147 = rruizmutfm0615-2.pdf
+  115 = PIA (1).docx
+  86 = PARTE 5 (1).docx
+  50 = Tipos de Memoria.docx
+  21 = PARTE 5.docx
+  111 = Tarea 10 Seguridad.docx
+  145 = 1112.jpg
+  136 = 111.jpg
+  59 = Practica9Presentacion-1864290.pptx
+  23 = Practica7Telnet-1864290.docx
+  25 = Practica6IPDinamicayFija-1864290.docx
+  75 = Practica5Privilegios-1864290.docx
+  68 = Practica4Banner-1864290.docx
+  56 = BIG DATA (1).pptx
+  103 = Todas las tareas
+  144 = {91BA8E01-F854-4418-A108-E63323DDAE60}
+  66 = 74620899_523241905183813_6420025141631123456_n.jpg
+  5 = 77002877_778858179209919_1596136273850925056_n.jpg
+  93 = 12.jpg
+  36 = 11.jpg
+  13 = ROUTING & ROUTED.pptx
+  133 = BIG DATA.pptx
+  95 = TomTom-v80205-1.0.7.zip
+  149 = 222.jpg
+  126 = GatherMate2-1.45.5.zip
+  132 = Screenshots
+  89 = WoWScrnShot_102519_211129.jpg
+  71 = Auctionator+8.2.0.zip
+  125 = AuctioneerSuite-8.2.6433.zip
+  124 = CandyBuckets-v8.2.5.191021.zip
+  121 = NPCScan-8.0.1.13 (1).zip
+  114 = MapCoords_0.31.zip
+  100 = 9.jpg
+  98 = 8.jpg
+  96 = 7.jpg
+  90 = 6.jpg
+  88 = 5.jpg
+  81 = 4.jpg
+  65 = 3.jpg
+  113 = 2.jpg
+  101 = 1.jpg
+  102 = NPCScan-8.0.1.13.zip
+  26 = _NPCScan.Overlay-7.3.0.1.zip
+  122 = ISO 22301.pptx
+  34 = ISO22301-2019.pptx
+  99 = ISO22301SABER.pptx
+  97 = Artes pintura.pptx
+  87 = QUEDEBEMOS.pptx
+  120 = Sistema y seguridad
+  73 = ::{BB06C0E4-D293-4F75-8A90-CB05B6477EEE}
+  130 = WorldQuestTracker-v8.2.5.383.zip
+  69 = Presentación1.pptx
+  10 = Imágenes
+  7 = Imagen1.jpg
+  148 = Untitled 2.odp
+  92 = cod-banq2.jpg
+  49 = Unidad de USB (E:)
+  146 = Banner.png
+  52 = My Addons
+  19 = Imágenes guardadas
+  107 = Varias cosas
+  134 = V_Momi_v3.rar
+  43 = Uplay
+  105 = OptiFine_1.14.4_HD_U_F3.jar
+  104 = 89b1808aa6aa287598aaa6ecb6563435cfe811521270e571118495dcc9fb96eb
+  135 = launcherfenix.com.ar/
+  70 = Nueva carpeta (5)
+  45 = Nueva carpeta (4)
+  108 = Instrucciones.txt
+  74 = {3D8ECAD0-0A19-49A3-BC35-FF979F338674}
+  138 = ?action=generalsettings&source=skypebridge&caller=Settings
+  72 = 2012_09_14_skin_20120914114639133073.png
+  16 = Nueva carpeta
+  141 = 2013_05_13_skin_20130513102430147459.png
+  82 = 2016_10_08_skin_20161008223337117638.png
+  79 = 2017_09_19_skin_2017091914022349819.png
+  78 = 2014_07_01_skin_2014070111013589102.png
+  77 = minecraftfb
+  110 = ?productid=9NBLGGH2JHXJ&entitlementsync=true
+  76 = ?productId=9NBLGGH4RWK8&productFamily=Games
+  32 = ?productId=9NBLGGH2JHXJ&referrer=placeholderTileTransformer_Activate
+  94 = Jump Force Ultimate Edition 1.05 ElAmigos
+  67 = Jump Force Ultimate Edition.iso
+  58 = Nueva carpeta (3)
+  137 = ms-gamebarservices:///
+  128 = ms-gamingoverlay:///
+  47 = Updates Sims 4
+  62 = 4TS-DE
+  48 = The Sims 4.iso
+  63 = Sims 4
+  64 = Videos
+  140 = Proyecto.pptx
+  119 = Julio
+  127 = Java
+  31 = Semanota
+  44 = Semanita
+  9 = Documentos
+  84 = Hijo.java
+  139 = Padre.java
+  37 = Nuevo documento de texto (2).txt
+  28 = L1.java
+  20 = Lista.java
+  142 = ARREGLO4.java
+  118 = Arr4.java
+  39 = Arr2.java
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.23726/
+LastWrite Time 2019-09-01 23:58:52Z
+MRUListEx = 0
+  0 = 1-3-tmodloader-a-modding-api.23726/
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.7z
+LastWrite Time 2019-09-01 23:58:52Z
+MRUListEx = 3,2,1,0
+  3 = Activad_res.7z
+  2 = _Activad_res.7z
+  1 = Practica1_1864290.7z
+  0 = Translation Aggregator 2016.09.08.r184.7z
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.accdb
+LastWrite Time 2019-09-01 23:58:52Z
+MRUListEx = 2,1,0
+  2 = 1843734_MMS_E4.accdb
+  1 = 1864290_JCBH_Etapa4.accdb
+  0 = Integradora_ConsultorioMedico.accdb
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.ar/
+LastWrite Time 2019-09-01 23:58:52Z
+MRUListEx = 0
+  0 = launcherfenix.com.ar/
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.class
+LastWrite Time 2019-09-01 23:58:52Z
+MRUListEx = 2,1,0
+  2 = Examen2.class
+  1 = Tarea4Ejercicio5.class
+  0 = Tarea2Ejercicio1.class
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.com/search?q=crear+y+formatear+particiones+del+disco+duro&form=WNSGPH&qs=AS&cvid=f169ee29d33947a2aa1709e12bf91202&pq=crear+y&cc=MX&set
+LastWrite Time 2019-09-01 23:58:52Z
+MRUListEx = 
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.com/search?q=dxdiag&form=WNSGPH&qs=AS&cvid=fa73f2afb2fc4c3e83d2906e93bc3b14&pq=dxd&cc=MX&setlang=es-MX&nclid=CA5821C0758D4EFD2229090F691D998F%
+LastWrite Time 2019-09-01 23:58:52Z
+MRUListEx = 
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.com/search?q=hamach&form=WNSGPH&qs=SW&cvid=2c5ee1ef27be42c0a4e3e2a65a301550&pq=hamach&cc=MX&setlang=es-MX&nclid=CA5821C0758D4EFD2229090F691D99
+LastWrite Time 2019-09-01 23:58:52Z
+MRUListEx = 
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.DAT
+LastWrite Time 2019-09-01 23:58:52Z
+MRUListEx = 0
+  0 = NTUSER.DAT
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.doc
+LastWrite Time 2019-09-01 23:58:52Z
+MRUListEx = 0
+  0 = Laboratorio-de-Reforzamiento-1-contestado.doc
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.docx
+LastWrite Time 2019-12-01 01:03:38Z
+MRUListEx = 5,10,11,18,1,9,0,3,14,19,17,7,16,2,15,6,8,13,4,12
+  5 = Documentacion TELE.docx
+  10 = Tarea 3 Telecomunicaciones.docx
+  11 = Tarea 2 Telecomunicaciones.docx
+  18 = Tarea 1 Telecomunicaciones.docx
+  1 = PIA_SISTOP.docx
+  9 = Practica8Telnet2-1864290.docx
+  0 = PIA- Programa de Seguridad.docx
+  3 = Sears.docx
+  14 = Sears (1).docx
+  19 = 1864290_Bonilla_Julio_Evid-5.docx
+  17 = 1864290_Bonilla_Julio_PIA.docx
+  7 = PIA (1).docx
+  16 = PARTE 5 (1).docx
+  2 = Tipos de Memoria.docx
+  15 = PARTE 5.docx
+  6 = Tarea 10 Seguridad.docx
+  8 = Practica7Telnet-1864290.docx
+  13 = Practica6IPDinamicayFija-1864290.docx
+  4 = Practica5Privilegios-1864290.docx
+  12 = Practica4Banner-1864290.docx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.dotx
+LastWrite Time 2019-09-01 23:58:52Z
+MRUListEx = 0
+  0 = Currículum vítae impoluto diseñado por MOO.dotx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.html
+LastWrite Time 2019-12-01 17:24:17Z
+MRUListEx = 0
+  0 = index.html
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.img
+LastWrite Time 2019-09-01 23:58:52Z
+MRUListEx = 0
+  0 = retropie-4.4-rpi2_rpi3.img
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.iso
+LastWrite Time 2019-09-01 23:58:52Z
+MRUListEx = 5,4,3,2,1,0
+  5 = Jump Force Ultimate Edition.iso
+  4 = The Sims 4.iso
+  3 = manjaro-i3-17.0.2-stable-x86_64.iso
+  2 = ubuntu-17.10-desktop-amd64.iso
+  1 = Windows 7 aio.iso
+  0 = Windows Xp Sp3_Ba-K Lite 3 Edition.iso
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.jar
+LastWrite Time 2019-09-01 23:58:52Z
+MRUListEx = 0
+  0 = OptiFine_1.14.4_HD_U_F3.jar
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.java
+LastWrite Time 2019-09-01 23:58:52Z
+MRUListEx = 12,11,14,8,4,3,6,7,9,5,13,16,17,15,10,0,18,19,1,2
+  12 = Hijo.java
+  11 = Padre.java
+  14 = L1.java
+  8 = Lista.java
+  4 = ARREGLO4.java
+  3 = Arr4.java
+  6 = Arr2.java
+  7 = ARREGLO3.java
+  9 = Arr3.java
+  5 = Arr1.java
+  13 = Programa4.java
+  16 = Programa3.java
+  17 = Programa2.java
+  15 = Examen2.java
+  10 = Examen1.java
+  0 = Perro.java
+  18 = Animal.java
+  19 = For.java
+  1 = Gato.java
+  2 = Pajaro.java
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.jpg
+LastWrite Time 2019-11-19 04:09:48Z
+MRUListEx = 2,1,0,18,14,16,7,6,4,5,17,15,12,11,10,13,9,8,3,19
+  2 = fondo-elegante-presentaciones-negocios-tecnologia_28976-311.jpg
+  1 = 1112.jpg
+  0 = 111.jpg
+  18 = 74620899_523241905183813_6420025141631123456_n.jpg
+  14 = 77002877_778858179209919_1596136273850925056_n.jpg
+  16 = 12.jpg
+  7 = 11.jpg
+  6 = 222.jpg
+  4 = WoWScrnShot_102519_211129.jpg
+  5 = 9.jpg
+  17 = 8.jpg
+  15 = 7.jpg
+  12 = 6.jpg
+  11 = 5.jpg
+  10 = 4.jpg
+  13 = 3.jpg
+  9 = 2.jpg
+  8 = 1.jpg
+  3 = Imagen1.jpg
+  19 = cod-banq2.jpg
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.mp4
+LastWrite Time 2019-11-23 16:08:32Z
+MRUListEx = 0
+  0 = Spider-man into the Spiderverse.mp4
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.odp
+LastWrite Time 2019-10-09 08:07:03Z
+MRUListEx = 0
+  0 = Untitled 2.odp
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pdf
+LastWrite Time 2019-11-17 21:12:06Z
+MRUListEx = 13,15,11,10,9,2,12,8,6,5,7,3,0,17,4,1,19,18,16,14
+  13 = PIA_programa_Seguridad.pdf
+  15 = rruizmutfm0615-2.pdf
+  11 = Tarea_1_1_1864290.pdf
+  10 = Tarea_1_1864290.pdf
+  9 = JulioBonilla_1864290.pdf
+  2 = Tarea5_1864290.pdf
+  12 = Tarea4.pdf
+  8 = Tarea3Ejercicios.pdf
+  6 = Tarea2Ejercicios.pdf
+  5 = Tarea1Ejercicio.pdf
+  7 = Julio_Bonilla_tarea_5_109.pdf
+  3 = Julio_Bonilla_tarea_2_109.pdf
+  0 = Julio_Bonilla_tarea_4_109.pdf
+  17 = Ejercicio 1.pdf
+  4 = Julio_Bonilla_tarea_3_109.pdf
+  1 = Ejercico1.pdf
+  19 = Diagrama de clase, flujo y algoritmo.pdf
+  18 = Practica 5.pdf
+  16 = Ejercicio 2.pdf
+  14 = Practica 3.pdf
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.png
+LastWrite Time 2019-09-24 17:18:17Z
+MRUListEx = 0,19,18,14,17,13,16,15,12,11,10,9,8,7,5,6,4,3,2,1
+  0 = Banner.png
+  19 = 2012_09_14_skin_20120914114639133073.png
+  18 = 2013_05_13_skin_20130513102430147459.png
+  14 = 2016_10_08_skin_20161008223337117638.png
+  17 = 2017_09_19_skin_2017091914022349819.png
+  13 = 2014_07_01_skin_2014070111013589102.png
+  16 = comparador.png
+  15 = IMG_8421.png
+  12 = descarga.png
+  11 = fb_icon_325x325.png
+  10 = Sin título2.png
+  9 = Evidencia2.png
+  8 = Evidencia.png
+  7 = got.png
+  5 = Sin título.png
+  6 = ori.png
+  4 = DS31.png
+  3 = Sk.png
+  2 = Imagen2.png
+  1 = Imagen1.png
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pptx
+LastWrite Time 2019-11-23 17:09:41Z
+MRUListEx = 11,18,17,4,3,16,14,13,12,9,10,6,8,7,15,5,0,2,1,19
+  11 = 1.0 Network Fundamentals Edit.pptx
+  18 = ROUTING & ROUTED (1).pptx
+  17 = PIA- Programa de Seguridad.pptx
+  4 = Presentación1 (2).pptx
+  3 = Presentación1 (1).pptx
+  16 = 1864290_Bonilla_Julio_PIA-Presentacion.pptx
+  14 = PIA  Sistemas Operativos.pptx
+  13 = Practica9Presentacion-1864290.pptx
+  12 = BIG DATA (1).pptx
+  9 = ROUTING & ROUTED.pptx
+  10 = BIG DATA.pptx
+  6 = ISO 22301.pptx
+  8 = ISO22301-2019.pptx
+  7 = ISO22301SABER.pptx
+  15 = Artes pintura.pptx
+  5 = QUEDEBEMOS.pptx
+  0 = Presentación1.pptx
+  2 = Proyecto.pptx
+  1 = CyR  terminologia 3.pptx
+  19 = Presentacion PAC full HD 4K.pptx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.pub
+LastWrite Time 2019-09-01 23:58:52Z
+MRUListEx = 0
+  0 = TripticoFisicaBateria.pub
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.rar
+LastWrite Time 2019-09-06 16:10:56Z
+MRUListEx = 2,1,0
+  2 = V_Momi_v3.rar
+  1 = sadfg.rar
+  0 = My Character.rar
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.rtf
+LastWrite Time 2019-09-01 23:58:52Z
+MRUListEx = 1,0
+  1 = Bonilla Hernández.rtf
+  0 = FILO.rtf
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.spotlight&ccid=9a822e3b88524da49a397e02e3a15d06
+LastWrite Time 2019-09-01 23:58:52Z
+MRUListEx = 0
+  0 = ?ProductID=9NX2D8G1X4VK&ocid=ems.display.spotlight&ccid=9a822e3b88524da49a397e02e3a15d06
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.txt
+LastWrite Time 2019-12-10 08:00:16Z
+MRUListEx = 1,11,3,10,9,7,8,5,6,4,2,0
+  1 = Nuevo documento de texto.txt
+  11 = Instrucciones.txt
+  3 = Nuevo documento de texto (2).txt
+  10 = Ejercicio7.txt
+  9 = Ejercicio5.txt
+  7 = CompletandoCuadrado.txt
+  8 = Tarea.txt
+  5 = Nuevo documento de texto (3).txt
+  6 = Calificaciones alumnos.txt
+  4 = accounts sale.txt
+  2 = TES5Edit_log.txt
+  0 = ReadME!.txt
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.welcomeexperience&CCID=
+LastWrite Time 2019-09-01 23:58:52Z
+MRUListEx = 
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.welcomeexperience&CCID=ED4405B44C724C789DCB6348C64CF1E6
+LastWrite Time 2019-09-02 00:20:55Z
+MRUListEx = 
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.xlsx
+LastWrite Time 2019-09-01 23:58:52Z
+MRUListEx = 9,6,8,7,3,2,4,5,0,1
+  9 = Evidencia-3.1..xlsx
+  6 = Actividad-3-1.xlsx
+  8 = Evidencia 3.3.xlsx
+  7 = Evidencia 3.2.xlsx
+  3 = Actividades (1).xlsx
+  2 = Evidencia-3.1.xlsx
+  4 = Evidencia.xlsx
+  5 = Cuentas-Bancarias.xlsx
+  0 = ATI.xlsx
+  1 = Actividades.xlsx
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\.zip
+LastWrite Time 2019-12-08 06:25:46Z
+MRUListEx = 17,15,16,13,12,11,10,19,0,9,7,6,8,5,4,14,3,2,1,18
+  17 = elvui-11.26.zip
+  15 = ElvUI_SLE-v3.62.zip
+  16 = WeakAuras-2.15.5.zip
+  13 = DBM-Core-8.2.30.zip
+  12 = Archivos-Bienes-Raices.zip
+  11 = DBM-SpellTimers-v4-r118.zip
+  10 = DBM-Party-BC-r12 (1).zip
+  19 = DBM-Party-BC-r12.zip
+  0 = DBM-Core-8.2.29.zip
+  9 = WorldQuestTracker-v7.1.5.119-release.zip
+  7 = TomTom-v80205-1.0.7.zip
+  6 = GatherMate2-1.45.5.zip
+  8 = Auctionator+8.2.0.zip
+  5 = AuctioneerSuite-8.2.6433.zip
+  4 = CandyBuckets-v8.2.5.191021.zip
+  14 = NPCScan-8.0.1.13 (1).zip
+  3 = MapCoords_0.31.zip
+  2 = NPCScan-8.0.1.13.zip
+  1 = _NPCScan.Overlay-7.3.0.1.zip
+  18 = WorldQuestTracker-v8.2.5.383.zip
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs\Folder
+LastWrite Time 2019-12-23 05:00:57Z
+MRUListEx = 6,1,19,2,13,17,27,18,9,26,23,3,16,15,10,4,11,7,29,8,14,12,0,22,5,28,20,24,21,25
+  6 = Internet
+  1 = Backup
+  19 = Proyectos
+  2 = Descargas
+  13 = Downloads
+  17 = Tareas
+  27 = Películas
+  18 = Música
+  9 = Todas las tareas
+  26 = Screenshots
+  23 = Sistema y seguridad
+  3 = Imágenes
+  16 = Unidad de USB (E:)
+  15 = Imágenes guardadas
+  10 = Varias cosas
+  4 = Uplay
+  7 = Minecraft Skins
+  29 = Jump Force Ultimate Edition 1.05 ElAmigos
+  8 = 4TS-DE
+  14 = Videos
+  12 = Julio
+  0 = Nueva carpeta
+  22 = Documentos
+  5 = libraries
+  28 = Semana 2
+  20 = Documents
+  24 = isos
+  21 = Este equipo
+  25 = doc
+
+----------------------------------------
+run v.20200511
+(Software, NTUSER.DAT) [Autostart] Get autostart key contents from Software hive
+
+Software\Microsoft\Windows\CurrentVersion\Run
+LastWrite Time 2019-12-03 21:41:04Z
+  OneDrive - "C:\Users\Julio\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+  Akamai NetSession Interface - "C:\Users\Julio\AppData\Local\Akamai\netsession_win.exe"
+  EpicGamesLauncher - "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe" -silent
+  Steam - "C:\Program Files (x86)\Steam\steam.exe" -silent
+  EADM - "C:\Program Files (x86)\Origin\Origin.exe" -AutoStart
+  Discord - C:\Users\Julio\AppData\Local\Discord\app-0.0.305\Discord.exe
+  CCleaner Smart Cleaning - "C:\Program Files\CCleaner\CCleaner64.exe" /MONITOR
+
+Software\Microsoft\Windows\CurrentVersion\Run has no subkeys.
+
+Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Run not found.
+
+Software\Microsoft\Windows\CurrentVersion\RunOnce
+LastWrite Time 2019-12-26 03:17:22Z
+Software\Microsoft\Windows\CurrentVersion\RunOnce has no values.
+Software\Microsoft\Windows\CurrentVersion\RunOnce has no subkeys.
+
+Software\Microsoft\Windows\CurrentVersion\RunServices not found.
+
+Software\Microsoft\Windows\CurrentVersion\RunServicesOnce not found.
+
+Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\Run not found.
+
+Software\Microsoft\Windows NT\CurrentVersion\Terminal Server\Install\Software\Microsoft\Windows\CurrentVersion\RunOnce not found.
+
+Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run not found.
+
+Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Policies\Explorer\Run not found.
+
+Software\Microsoft\Windows\CurrentVersion\StartupApproved\Run not found.
+
+Software\Microsoft\Windows\CurrentVersion\StartupApproved\Run32 not found.
+
+Software\Microsoft\Windows\CurrentVersion\StartupApproved\StartupFolder not found.
+
+----------------------------------------
+runmru v.20200525
+(NTUSER.DAT) Gets contents of user's RunMRU key
+
+RunMru
+Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU
+LastWrite Time 2019-12-06 02:32:56Z
+Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU has no values.
+----------------------------------------
+runvirtual v.20200427
+(NTUSER.DAT, Software) Gets RunVirtual entries
+
+----------------------------------------
+searchscopes v.20200517
+- Gets contents of user's SearchScopes key
+
+SearchScopes
+Software\Microsoft\Internet Explorer\SearchScopes
+DefaultScope: {0633EE93-D776-472f-A0FF-E1416B8B2E3A}
+
+{0633EE93-D776-472f-A0FF-E1416B8B2E3A} [2019-09-02 00:05:57Z]
+DisplayName: Bing
+
+{6C35CDDC-D833-4A09-A8FC-41FD80AD1E19} [2019-09-02 00:05:57Z]
+DisplayName: Yahoo Search
+
+----------------------------------------
+sevenzip v.20210329
+- Gets records of histories from 7-Zip keys
+
+FM LastWrite: [2019-12-03 21:42:26Z]
+
+Compression LastWrite: [2019-12-03 21:42:26Z]
+
+Compression\ArcHistory:
+Extraction\PathHistory:
+FM\CopyHistory:
+FM\FolderHistory:
+Software\Wow6432Node\7-Zip not found.
+----------------------------------------
+shc v.20200427
+(NTUSER.DAT) Gets SHC entries from user hive
+
+Software\Microsoft\Windows\CurrentVersion\UFH\SHC
+LastWrite Time 2019-12-12 20:19:57Z
+
+0 - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Acrobat Reader DC.lnk C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe 
+----------------------------------------
+shellfolders v.20200515
+Gets user's shell folders values
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders
+LastWrite Time 2019-09-02 00:20:00Z
+StartUp folder : C:\Users\Julio\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders
+LastWrite Time 2019-09-02 00:22:46Z
+StartUp folder : %USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+----------------------------------------
+speech v.20200427
+(NTUSER.DAT) Get values from user's Speech key
+
+Software\Microsoft\Speech
+CurrentUserLexicon Datafile value    : %1a%\Microsoft\Speech\Files\UserLexicons\SP_F19F7C27238644D9AA05318F45646839.dat
+
+Voices DefaultTokenId value          : HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_ES-MX_SABINA_11.0
+
+PhoneConverters DefaultTokenId value : HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\PhoneConverters\Tokens\Universal
+----------------------------------------
+Software\SysInternals not found.
+----------------------------------------
+Launching tsclient v.20200518
+(NTUSER.DAT) Displays contents of user's Terminal Server Client\Default key
+
+Software\Microsoft\Terminal Server Client\Default not found.
+
+Software\Microsoft\Terminal Server Client\Servers not found.
+----------------------------------------
+typedpaths v.20200526
+(NTUSER.DAT) Gets contents of user's typedpaths key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths
+LastWrite Time 2019-09-06 22:21:49Z
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\TypedPaths has no values.
+----------------------------------------
+typedurls v.20200526
+(NTUSER.DAT) Returns contents of user's TypedURLs key.
+
+TypedURLs
+Software\Microsoft\Internet Explorer\TypedURLs
+LastWrite Time 2019-12-03 21:44:07Z
+Software\Microsoft\Internet Explorer\TypedURLs has no values.
+----------------------------------------
+typedurlstime v.20200526
+(NTUSER.DAT) Returns contents of user's TypedURLsTime key.
+
+Software\Microsoft\Internet Explorer\TypedURLsTime not found.
+----------------------------------------
+uninstall v.20200525
+(Software, NTUSER.DAT) Gets contents of Uninstall keys from Software, NTUSER.DAT hives
+
+Uninstall
+Software\Microsoft\Windows\CurrentVersion\Uninstall
+
+2019-12-12 20:13:52Z
+  Opera GX Stable 64.0.3417.150 v.64.0.3417.150
+
+2019-11-30 17:03:17Z
+  Microsoft Visual Studio Code (User) v.1.40.2
+
+2019-11-23 04:21:59Z
+  Microsoft OneDrive v.19.192.0926.0012
+
+2019-09-01 23:59:43Z
+  balenaEtcher 1.4.8 (only current user) v.1.4.8
+  Discord v.0.0.305
+  OpenIV v.2.9.1.926
+  Stremio v.4.4.25
+
+----------------------------------------
+UserAssist
+Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist
+LastWrite Time 2019-09-01 23:58:52Z
+
+{9E04CAB2-CC14-11DF-BB8C-A2F1DED72085}
+
+Value names with no time stamps:
+
+{A3D53349-6E61-4557-8FC7-0028EDCEEBF6}
+
+Value names with no time stamps:
+
+{B267E3AD-A825-4A09-82B9-EEC22AA3B847}
+
+{BCB48336-4DDD-48FF-BB0B-D3190DACB3E2}
+
+Value names with no time stamps:
+
+{CAA59E3C-4792-41A5-9909-6A6A8D32490E}
+
+Value names with no time stamps:
+
+{CEBFF5CD-ACE2-4F4F-9178-9926F41749EA}
+2019-12-26 02:54:04Z
+  Microsoft.Windows.Explorer (2)
+2019-12-25 20:26:40Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Battle.net\Battle.net Launcher.exe (15)
+2019-12-25 20:25:41Z
+  Chrome.UserData.Default (6)
+2019-12-23 23:32:07Z
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\msdt.exe (16)
+2019-12-23 05:00:56Z
+  windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel (5)
+2019-12-22 03:58:35Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe (1)
+2019-12-20 22:59:30Z
+  Microsoft.XboxGamingOverlay_8wekyb3d8bbwe!App (2)
+2019-12-13 05:14:40Z
+  Microsoft.MinecraftUWP_8wekyb3d8bbwe!App (0)
+2019-12-13 04:24:32Z
+  Microsoft.AutoGenerated.{CE968D4E-5D5A-3A3C-3FAA-CC37A457954A} (0)
+2019-12-10 08:00:21Z
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\notepad.exe (0)
+2019-12-07 06:52:34Z
+  Microsoft.XboxApp_8wekyb3d8bbwe!Microsoft.XboxApp (0)
+2019-12-07 06:49:14Z
+  OperaSoftware.OperaGXWebBrowser.1565668507 (0)
+2019-12-04 15:30:01Z
+  Microsoft.VisualStudioCode (0)
+2019-12-03 22:18:21Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Steam\Steam.exe (0)
+2019-12-03 21:41:02Z
+  {6D809377-6AF0-444B-8957-A3773F02200E}\CCleaner\CCleaner64.exe (0)
+2019-12-01 17:24:17Z
+  Chrome (0)
+2019-12-01 01:01:28Z
+  {6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office16\WINWORD.EXE (0)
+2019-11-30 16:41:27Z
+  d:\Users\Julio\Downloads\VSCodeUserSetup-x64-1.40.2.exe (0)
+2019-11-23 17:09:41Z
+  {6D809377-6AF0-444B-8957-A3773F02200E}\Microsoft Office\Office16\POWERPNT.EXE (0)
+2019-11-23 16:08:29Z
+  Microsoft.ZuneVideo_8wekyb3d8bbwe!Microsoft.ZuneVideo (0)
+2019-11-23 05:42:08Z
+  D:\program files\txgameassistant\appmarket\GF186\TUninstall.exe (0)
+2019-11-19 04:35:19Z
+  {6D809377-6AF0-444B-8957-A3773F02200E}\Oracle\VirtualBox\VirtualBox.exe (0)
+2019-11-13 04:49:20Z
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\OptionalFeatures.exe (0)
+2019-11-13 04:48:38Z
+  Microsoft.Windows.ControlPanel (0)
+2019-10-28 05:25:12Z
+  Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge (0)
+2019-10-28 05:23:48Z
+  E7CF176E110C211B (0)
+2019-10-26 15:50:04Z
+  C:\Users\Julio\AppData\Local\Discord\app-0.0.305\Discord.exe (0)
+2019-10-26 15:47:32Z
+  com.squirrel.Discord.Discord (0)
+2019-10-26 03:07:58Z
+  Microsoft.Windows.Photos_8wekyb3d8bbwe!App (0)
+2019-10-24 01:13:41Z
+  Microsoft.WindowsAlarms_8wekyb3d8bbwe!App (0)
+2019-10-10 04:05:44Z
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\cmd.exe (0)
+2019-10-08 08:46:08Z
+  Microsoft.WindowsCalculator_8wekyb3d8bbwe!App (0)
+2019-09-24 17:17:47Z
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\mspaint.exe (0)
+2019-09-06 22:23:17Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA GeForce Experience.exe (0)
+2019-09-06 22:21:54Z
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\dxdiag.exe (0)
+2019-09-06 17:38:04Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\World of Warcraft\_classic_\Wow.exe (0)
+2019-09-06 17:37:43Z
+  Microsoft.AutoGenerated.{7F323BAA-C170-2FD1-DA95-DD986C17D056} (0)
+2019-09-06 16:17:31Z
+  C:\Games\The Sims 4\unins000.exe (0)
+2019-09-06 16:16:54Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Final Fantasy III\unins001.exe (0)
+2019-09-06 16:16:51Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Final Fantasy III\unins000.exe (0)
+2019-09-06 16:15:42Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\FINAL FANTASY IV\unins000.exe (0)
+2019-09-06 16:14:41Z
+  C:\Games\Jump Force\unins000.exe (0)
+2019-09-05 02:13:19Z
+  ThumbmunkeysLtd.PhototasticCollage_nfy108tqq3p12!App (0)
+2019-08-31 03:13:30Z
+  C:\ProgramData\BlueStacks\Client\Bluestacks.exe (0)
+2019-08-19 00:05:38Z
+  d:\Users\Julio\Downloads\LauncherFenix-Minecraft-6.exe (0)
+2019-08-18 23:09:23Z
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\msiexec.exe (0)
+2019-07-25 16:40:29Z
+  C:\Games\The Sims 4\Game\Bin\TS4_x64.exe (0)
+2019-05-23 20:18:26Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Steam\steamapps\common\Terraria\Terraria.exe (0)
+2019-05-23 00:09:08Z
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Origin\Origin.exe (0)
+
+Value names with no time stamps:
+  UEME_CTLCUACount:ctor
+  Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy!App
+  Microsoft.Windows.Cortana_cw5n1h2txyewy!CortanaUI
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\OpenWith.exe
+  avast! Antivirus
+  Microsoft.AutoGenerated.{39F3B85B-63FB-0256-8A0A-AAC177410D28}
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\MSI\Super Charger\Super Charger.exe
+  Microsoft.LockApp_cw5n1h2txyewy!WindowsDefaultLockScreen
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+  D:\games\Fortnite\FortniteGame\Binaries\Win64\FortniteClient-Win64-Shipping_EAC.exe
+  D:\games\Fortnite\FortniteGame\Binaries\Win64\FortniteClient-Win64-Shipping.exe
+  Valve.Steam.Client
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\SndVol.exe
+  BlizzardEntertainment.Battlenet.beta
+  Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy!App
+  Microsoft.SkyDrive.Desktop
+  {6D809377-6AF0-444B-8957-A3773F02200E}\7-Zip\7zFM.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\World of Warcraft\_retail_\Wow.exe
+  {6D809377-6AF0-444B-8957-A3773F02200E}\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA GeForce Experience.exe
+  {6D809377-6AF0-444B-8957-A3773F02200E}\NVIDIA Corporation\Control Panel Client\nvcplui.exe
+  Avast_Secure_Browser
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\LicensingUI.exe
+  D:\games\SlimeRancher\SlimeRancher.exe
+  {D65231B0-B2F1-4857-A4CE-A8E7C6EA7D27}\cmd.exe
+  D:\games\LegoBatman\DirectX\DXSETUP.exe
+  D:\games\LegoBatman\Game.exe
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\wscript.exe
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\WindowsPowerShell\v1.0\powershell.exe
+  D:\Users\Julio\Downloads\gamedownload_i18n_900205241_SpecialPackage_copy_624.exe
+  Microsoft.AutoGenerated.{E0B930E9-20C9-7D4F-ADA0-7178EA17A763}
+  D:\program files\txgameassistant\ui\AndroidEmulator.exe
+  D:\program files\txgameassistant\ui\TSettingCenter.exe
+  D:\program files\txgameassistant\ui\bugreport.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\Steam\steamapps\common\Counter-Strike Global Offensive\csgo.exe
+  D:\games\LegoBatman3\LEGOBatman3.exe
+  D:\games\Fortnite\FortniteGame\Binaries\Win64\FortniteClient-Win64-Shipping_BE.exe
+  D:\SteamLibrary\steamapps\common\GarrysMod\hl2.exe
+  C:\Users\Julio\AppData\Local\Temp\837C.tmp.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\TeamViewer\TeamViewer.exe
+  {6D809377-6AF0-444B-8957-A3773F02200E}\Realtek\Audio\HDA\RtkNGUI64.exe
+  {7C5A40EF-A0FB-4BFC-874A-C0F2E0B9FA8E}\XiaoMi\MiWiFi\MiWiFi.exe
+  {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\diskmgmt.msc
+
+{F2A1CB5A-E3CC-4A2E-AF9D-505A7009D442}
+
+Value names with no time stamps:
+
+{F4E57C4B-2036-45F0-A9AB-443BCFE33D9F}
+2019-12-26 02:54:04Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\File Explorer.lnk (2)
+2019-12-25 20:26:40Z
+  C:\Users\Public\Desktop\Battle.net.lnk (15)
+2019-12-25 20:25:41Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\Google Chrome.lnk (6)
+2019-12-22 03:58:35Z
+  C:\Users\Public\Desktop\Epic Games Launcher.lnk (1)
+2019-12-07 06:49:14Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\Navegador Opera GX.lnk (0)
+2019-12-04 15:30:01Z
+  d:\Users\Julio\Desktop\Visual Studio Code.lnk (0)
+2019-12-03 22:18:21Z
+  C:\Users\Public\Desktop\Steam.lnk (0)
+2019-12-03 21:41:02Z
+  d:\Users\Julio\Documents\Programas\CCleaner.lnk (0)
+2019-11-26 15:18:21Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\Word 2016.lnk (0)
+2019-11-23 05:42:08Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Tencent Software\Gameloop\Uninstall Gameloop.lnk (0)
+2019-11-19 04:35:19Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Oracle VM VirtualBox\Oracle VM VirtualBox.lnk (0)
+2019-11-18 21:59:38Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\PowerPoint 2016.lnk (0)
+2019-11-13 04:48:38Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\System Tools\Control Panel.lnk (0)
+2019-10-28 05:23:48Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\Mozilla Firefox.lnk (0)
+2019-10-26 15:47:32Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Discord Inc\Discord.lnk (0)
+2019-10-10 04:05:44Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\System Tools\Command Prompt.lnk (0)
+2019-09-28 17:08:23Z
+  d:\Users\Julio\Desktop\Discord.lnk (0)
+2019-09-24 17:17:47Z
+  {0139D44E-6AFE-49F2-8690-3DAFCAE6FFB8}\Accessories\Paint.lnk (0)
+2019-09-17 02:04:41Z
+  d:\Users\Julio\Documents\Programas\Oracle VM VirtualBox.lnk (0)
+2019-09-06 22:23:17Z
+  d:\Users\Julio\Documents\Programas\GeForce Experience.lnk (0)
+2019-08-31 03:13:30Z
+  C:\Users\Public\Desktop\BlueStacks.lnk (0)
+2019-08-25 18:54:07Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Opera GX Browser.lnk (0)
+2019-08-19 04:24:24Z
+  d:\Users\Julio\Desktop\Opera GX Browser.lnk (0)
+2019-07-25 16:40:29Z
+  C:\Users\Public\Desktop\The Sims 4 64bit.lnk (0)
+2019-07-01 15:23:43Z
+  C:\Users\Public\Desktop\Jump Force.lnk (0)
+2019-05-23 00:09:08Z
+  C:\Users\Public\Desktop\Origin.lnk (0)
+2019-05-14 20:44:47Z
+  d:\Users\Julio\Documents\Programas\devcpp -.lnk (0)
+2019-05-10 04:20:25Z
+  d:\Users\Julio\Documents\Programas\Stremio.lnk (0)
+2019-05-07 22:34:30Z
+  {9E3995AB-1F9C-4F13-B827-48B24B6C7174}\TaskBar\Excel 2016.lnk (0)
+2019-04-30 09:21:18Z
+  C:\Users\Public\Desktop\Arduino.lnk (0)
+2019-04-18 04:22:05Z
+  d:\Users\Julio\Desktop\Uplay.lnk (0)
+2019-04-08 08:16:18Z
+  {A77F5D77-2E2B-44C3-A6A2-ABA601054A51}\Accessories\Notepad.lnk (0)
+
+Value names with no time stamps:
+  UEME_CTLCUACount:ctor
+
+{FA99DFC7-6AC2-453A-A5E2-5E2AFF4507BD}
+
+Value names with no time stamps:
+
+----------------------------------------
+wc_shares v.20200515
+- Gets contents of user's WorkgroupCrawler/Shares subkeys
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\WorkgroupCrawler\Shares not found.
+----------------------------------------
+winrar v.20200526
+(NTUSER.DAT) Get WinRAR\ArcHistory entries
+
+Software\WinRAR\ArcHistory not found.
+----------------------------------------
+winscp v.20201227
+(NTUSER.DAT) Gets user's WinSCP 2 data
+
+Software\Martin Prikryl\WinSCP 2 not found.
+----------------------------------------
+winzip v.20200526
+(NTUSER.DAT) Get WinZip extract and filemenu values
+
+Software\Nico Mak Computing\WinZip not found.
+----------------------------------------
+wordwheelquery v.20200823
+(NTUSER.DAT) Gets contents of user's WordWheelQuery key
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\WordWheelQuery
+LastWrite Time 2019-09-06 16:14:29Z
+
+Searches listed in MRUListEx order
+
+1    Sims                          
+0    World of                      
+----------------------------------------
