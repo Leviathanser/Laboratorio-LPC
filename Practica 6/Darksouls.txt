@@ -1,0 +1,99 @@
+[<tr>
+<th align="center" colspan="3" style="background-color: #00153A; padding:2px; font-size:18px;"><font color="White">¡Bienvenid@s a Dark Souls Wiki!</font>
+</th></tr>, <tr>
+<td>La comunidad y base de datos colaborativa en español<br/>sobre la saga de videojuegos <i>Dark Souls</i> creada por<br/><a href="/es/wiki/FromSoftware" title="FromSoftware">FromSoftware</a> en el año 2011, incluido el título más<br/>reciente: <i><a href="/es/wiki/Dark_Souls_III" title="Dark Souls III">Dark Souls III</a></i>. Esta wiki puede ser editada<br/>por cualquier persona, y está dirigida y mantenida<br/>por sus propios usuarios, ¡y tú puedes ser uno de ellos!
+</td>
+<td>Actualmente contamos con<br/><a href="/es/wiki/Especial:Todas" title="Especial:Todas">2414 artículos</a> y <a href="/es/wiki/Especial:ListaIm%C3%A1genes" title="Especial:ListaImágenes">3733 imágenes</a>.
+</td></tr>, <tr>
+<th align="center" colspan="3" style="background-color: #00153A; padding:2px; font-size:18px;"><font color="White"><a href="/es/wiki/Categor%C3%ADa:Contenidos" title="Categoría:Contenidos">Contenidos</a></font>
+</th></tr>, <tr>
+<td style="padding: 20px;"><a href="/es/wiki/Personajes" title="Personajes"><img alt="Solaire Icon Grey.png" class="lazyload" data-image-key="Solaire_Icon_Grey.png" data-image-name="Solaire Icon Grey.png" data-src="https://static.wikia.nocookie.net/dark-souls/images/6/6c/Solaire_Icon_Grey.png/revision/latest?cb=20140309223614&amp;path-prefix=es" decoding="async" height="77" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="80"/></a>
+</td>
+<td style="padding: 20px;"><a href="/es/wiki/Armas" title="Armas"><img alt="Menu Weapons.png" class="lazyload" data-image-key="Menu_Weapons.png" data-image-name="Menu Weapons.png" data-src="https://static.wikia.nocookie.net/dark-souls/images/f/f5/Menu_Weapons.png/revision/latest?cb=20140309223613&amp;path-prefix=es" decoding="async" height="80" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="80"/></a>
+</td>
+<td style="padding: 20px;"><a href="/es/wiki/Armaduras" title="Armaduras"><img alt="Menu Armor.png" class="lazyload" data-image-key="Menu_Armor.png" data-image-name="Menu Armor.png" data-src="https://static.wikia.nocookie.net/dark-souls/images/5/52/Menu_Armor.png/revision/latest?cb=20140309223612&amp;path-prefix=es" decoding="async" height="80" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="80"/></a>
+</td>
+<td style="padding: 20px;"><a href="/es/wiki/Categor%C3%ADa:Magias" title="Categoría:Magias"><img alt="Menu Spells.png" class="lazyload" data-image-key="Menu_Spells.png" data-image-name="Menu Spells.png" data-src="https://static.wikia.nocookie.net/dark-souls/images/8/8b/Menu_Spells.png/revision/latest?cb=20140309223613&amp;path-prefix=es" decoding="async" height="80" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="80"/></a>
+</td></tr>, <tr>
+<td><div class="portal_link"><a href="/es/wiki/Personajes" title="Personajes"><span style="color:white">PERSONAJES</span></a></div>
+</td>
+<td><div class="portal_link"><a href="/es/wiki/Armas" title="Armas"><span style="color:white">ARMAS</span></a></div>
+</td>
+<td><div class="portal_link"><a href="/es/wiki/Armaduras" title="Armaduras"><span style="color:white">ARMADURAS</span></a></div>
+</td>
+<td><div class="portal_link"><a href="/es/wiki/Categor%C3%ADa:Magias" title="Categoría:Magias"><span style="color:white">MAGIAS</span></a></div>
+</td></tr>, <tr>
+<td style="padding: 20px;"><a href="/es/wiki/Objetos" title="Objetos"><img alt="Menu Items.png" class="lazyload" data-image-key="Menu_Items.png" data-image-name="Menu Items.png" data-src="https://static.wikia.nocookie.net/dark-souls/images/a/a5/Menu_Items.png/revision/latest?cb=20140309223612&amp;path-prefix=es" decoding="async" height="84" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="80"/></a>
+</td>
+<td style="padding: 20px;"><a href="/es/wiki/Localizaciones" title="Localizaciones"><img alt="Locations Icon.png" class="lazyload" data-image-key="Locations_Icon.png" data-image-name="Locations Icon.png" data-src="https://static.wikia.nocookie.net/dark-souls/images/5/5a/Locations_Icon.png/revision/latest?cb=20140309223612&amp;path-prefix=es" decoding="async" height="90" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="80"/></a>
+</td>
+<td style="padding: 20px;"><a href="/es/wiki/Categor%C3%ADa:Pactos_y_Juramentos" title="Categoría:Pactos y Juramentos"><img alt="Soapstone Icon.png" class="lazyload" data-image-key="Soapstone_Icon.png" data-image-name="Soapstone Icon.png" data-src="https://static.wikia.nocookie.net/dark-souls/images/4/48/Soapstone_Icon.png/revision/latest?cb=20140309223614&amp;path-prefix=es" decoding="async" height="90" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="80"/></a>
+</td>
+<td style="padding: 20px;"><a href="/es/wiki/Categor%C3%ADa:Jugabilidad" title="Categoría:Jugabilidad"><img alt="Stats Icon.png" class="lazyload" data-image-key="Stats_Icon.png" data-image-name="Stats Icon.png" data-src="https://static.wikia.nocookie.net/dark-souls/images/4/43/Stats_Icon.png/revision/latest?cb=20140309223614&amp;path-prefix=es" decoding="async" height="83" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="80"/></a>
+</td></tr>, <tr>
+<td><div class="portal_link"><a href="/es/wiki/Objetos" title="Objetos"><span style="color:white">OBJETOS</span></a></div>
+</td>
+<td><div class="portal_link"><a href="/es/wiki/Localizaciones" title="Localizaciones"><span style="color:white">LOCALIZACIONES</span></a></div>
+</td>
+<td><div class="portal_link"><a href="/es/wiki/Categor%C3%ADa:Pactos_y_Juramentos" title="Categoría:Pactos y Juramentos"><span style="color:white">JURAMENTOS</span></a></div>
+</td>
+<td><div class="portal_link"><a href="/es/wiki/Categor%C3%ADa:Jugabilidad" title="Categoría:Jugabilidad"><span style="color:white">JUGABILIDAD</span></a></div>
+</td></tr>, <tr>
+<th align="center" colspan="3" style="background-color: #00153A; padding:2px; font-size:18px;"><font color="White">Vídeo destacado</font>
+</th></tr>, <tr>
+<th align="center" colspan="3" style="background-color: #00153A; padding:2px; font-size:18px;"><font color="White">Comunidades aliadas</font>
+</th></tr>, <tr>
+<td><a href="https://bloodborne.fandom.com/es/wiki/" title="w:c:es.bloodborne"><img alt="Wiki-wordmark-8.png" class="lazyload" data-image-key="Wiki-wordmark-8.png" data-image-name="Wiki-wordmark-8.png" data-src="https://static.wikia.nocookie.net/dark-souls/images/2/27/Wiki-wordmark-8.png/revision/latest/scale-to-width-down/200?cb=20190326200541&amp;path-prefix=es" decoding="async" height="52" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="200"/></a>
+</td>
+<td><a href="https://sekiro.fandom.com/es/wiki/" title="w:c:es.sekiro"><img alt="Wiki-wordmark-9.png" class="lazyload" data-image-key="Wiki-wordmark-9.png" data-image-name="Wiki-wordmark-9.png" data-src="https://static.wikia.nocookie.net/dark-souls/images/f/fe/Wiki-wordmark-9.png/revision/latest/scale-to-width-down/200?cb=20190326200541&amp;path-prefix=es" decoding="async" height="53" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="200"/></a>
+</td>
+<td><a href="https://assassinscreed.fandom.com/es/wiki/" title="w:c:es.assassinscreed"><img alt="Wiki-wordmark-7.png" class="lazyload" data-image-key="Wiki-wordmark-7.png" data-image-name="Wiki-wordmark-7.png" data-src="https://static.wikia.nocookie.net/dark-souls/images/6/68/Wiki-wordmark-7.png/revision/latest/scale-to-width-down/200?cb=20180708234018&amp;path-prefix=es" decoding="async" height="52" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="200"/></a>
+</td></tr>, <tr>
+<td><a class="extiw" href="https://bloodborne.fandom.com/es/wiki/" title="w:c:es.bloodborne">Bloodborne</a>
+</td>
+<td><a class="extiw" href="https://sekiro.fandom.com/es/wiki/" title="w:c:es.sekiro">Sekiro</a>
+</td>
+<td><a class="extiw" href="https://assassinscreed.fandom.com/es/wiki/" title="w:c:es.assassinscreed">Animuspedia</a>
+</td></tr>, <tr>
+<td><a href="https://onepiece.fandom.com/es/wiki/" title="w:c:es.onepiece"><img alt="Wiki-wordmark-2.png" class="lazyload" data-image-key="Wiki-wordmark-2.png" data-image-name="Wiki-wordmark-2.png" data-src="https://static.wikia.nocookie.net/dark-souls/images/2/2f/Wiki-wordmark-2.png/revision/latest/scale-to-width-down/175?cb=20140325230739&amp;path-prefix=es" decoding="async" height="46" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="175"/></a>
+</td>
+<td><a href="https://dragonball.fandom.com/es/wiki/" title="w:c:es.dragonball"><img alt="Wiki-wordmark-3.png" class="lazyload" data-image-key="Wiki-wordmark-3.png" data-image-name="Wiki-wordmark-3.png" data-src="https://static.wikia.nocookie.net/dark-souls/images/e/ec/Wiki-wordmark-3.png/revision/latest/scale-to-width-down/175?cb=20201111205325&amp;path-prefix=es" decoding="async" height="51" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="175"/></a>
+</td>
+<td><a href="https://saintseiya.fandom.com/es/wiki/" title="w:c:es.saintseiya"><img alt="Wiki-wordmark-1.png" class="lazyload" data-image-key="Wiki-wordmark-1.png" data-image-name="Wiki-wordmark-1.png" data-src="https://static.wikia.nocookie.net/dark-souls/images/4/4b/Wiki-wordmark-1.png/revision/latest/scale-to-width-down/200?cb=20180708233627&amp;path-prefix=es" decoding="async" height="52" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="200"/></a>
+</td></tr>, <tr>
+<td><a class="extiw" href="https://onepiece.fandom.com/es/wiki/" title="w:c:es.onepiece">One Piece</a>
+</td>
+<td><a class="extiw" href="https://dragonball.fandom.com/es/wiki/" title="w:c:es.dragonball">Dragon Ball</a>
+</td>
+<td><a class="extiw" href="https://saintseiya.fandom.com/es/wiki/" title="w:c:es.saintseiya">Saint Seiya</a>
+</td></tr>, <tr>
+<td><a href="https://naruto.fandom.com/es/wiki/" title="w:c:es.naruto"><img alt="Wiki-wordmark 4.png" class="lazyload" data-image-key="Wiki-wordmark_4.png" data-image-name="Wiki-wordmark 4.png" data-src="https://static.wikia.nocookie.net/dark-souls/images/5/53/Wiki-wordmark_4.png/revision/latest/scale-to-width-down/175?cb=20140325230740&amp;path-prefix=es" decoding="async" height="46" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="175"/></a>
+</td>
+<td><a href="https://amiibo.fandom.com/es/wiki/" title="w:c:es.amiibo"><img alt="Wiki-wordmark-6.png" class="lazyload" data-image-key="Wiki-wordmark-6.png" data-image-name="Wiki-wordmark-6.png" data-src="https://static.wikia.nocookie.net/dark-souls/images/f/fd/Wiki-wordmark-6.png/revision/latest/scale-to-width-down/200?cb=20180309231543&amp;path-prefix=es" decoding="async" height="52" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="200"/></a>
+</td>
+<td><a href="https://donkeykong.fandom.com/es/wiki/" title="w:c:es.donkeykong"><img alt="Donkey Kong logo.png" class="lazyload" data-image-key="Donkey_Kong_logo.png" data-image-name="Donkey Kong logo.png" data-src="https://static.wikia.nocookie.net/dark-souls/images/6/65/Donkey_Kong_logo.png/revision/latest/scale-to-width-down/175?cb=20200503205955&amp;path-prefix=es" decoding="async" height="46" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="175"/></a>
+</td></tr>, <tr>
+<td><a class="extiw" href="https://naruto.fandom.com/es/wiki/" title="w:c:es.naruto">Naruto</a>
+</td>
+<td><a class="extiw" href="https://amiibo.fandom.com/es/wiki/" title="w:c:es.amiibo">amiibopedia</a>
+</td>
+<td><a class="extiw" href="https://donkeykong.fandom.com/es/wiki/" title="w:c:es.donkeykong">Donkey Kong</a>
+</td></tr>, <tr>
+<td>
+</td>
+<td><a href="https://little-nightmares-espanol.fandom.com/es/wiki/" title="w:c:es.little-nightmares-espanol"><img alt="Little Nightmares.png" class="lazyload" data-image-key="Little_Nightmares.png" data-image-name="Little Nightmares.png" data-src="https://static.wikia.nocookie.net/dark-souls/images/9/9a/Little_Nightmares.png/revision/latest/scale-to-width-down/80?cb=20210115180246&amp;path-prefix=es" decoding="async" height="52" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D" width="80"/></a>
+</td>
+<td>
+</td></tr>, <tr>
+<td>
+</td>
+<td><a class="extiw" href="https://little-nightmares-espanol.fandom.com/es/wiki/" title="w:c:es.little-nightmares-espanol">Little Nightmares</a>
+</td>
+<td>
+</td></tr>, <tr>
+<th align="center" colspan="3" style="background-color: #00153A; padding:2px; font-size:18px;"><font color="White">Noticias de Twitter</font>
+</th></tr>, <tr>
+<th align="center" colspan="3" style="background-color: #00153A; padding:2px; font-size:18px;"><font color="White">Galería</font>
+</th></tr>, <tr>
+<th align="center" colspan="3" style="background-color: #00153A; padding:2px; font-size:18px;"><font color="White">Colabora</font>
+</th></tr>]
